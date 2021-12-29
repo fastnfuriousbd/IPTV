@@ -8,6 +8,8 @@ http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SUNPLEX",T SPORTS
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336081.png" group-title="SUNPLEX",DURONTO TV
+http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336027.png" group-title="SUNPLEX",NAGORIK TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336037.jpg" group-title="SUNPLEX",JAMUNA TV
@@ -30,16 +32,28 @@ http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336041.png" group-title="SUNPLEX",BANGLA VISION
 http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAAN BANGLA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336087.png" group-title="SUNPLEX",GAAN BANGLA
 http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336081.png" group-title="SUNPLEX",DURONTO TV
-http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336045.jpeg" group-title="SUNPLEX",STAR JALSHA
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , group-title="KIDS" ,  Cartoon Network RU
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" , group-title="KIDS" ,  Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" ,  group-title="KIDS" , GUBBARE KIDS
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" , group-title="KIDS" ,  Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" , group-title="KIDS" ,  Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
 
 
@@ -53,8 +67,6 @@ http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , group-title="Sports" ,  PTV Sports
 https://236s.short.gy/DreamTV/PTV.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , group-title="Sports" ,  Sony Ten 1 HD
 http://208.86.19.21:80/726.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" , group-title="Sports" ,  Sony Ten 2 HD
@@ -94,16 +106,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , group-title="KIDS" ,  Cartoon Network RU
-http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" , group-title="KIDS" ,  Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" ,  group-title="KIDS" , GUBBARE KIDS
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" , group-title="KIDS" ,  Aniplus
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" , group-title="KIDS" ,  Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+
 
 
 
@@ -207,6 +210,43 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Info" , NASA TV (akamai)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" , National Geographic HD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" , National Geographic RU
+http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" , National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News" , Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" , Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://adnas.com/wp-content/uploads/2019/08/fox-news-logo.jpg" , FOX NEWS
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1.png" , CNN NEWS
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Indian" , Wow Chinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" , Box Cinema
@@ -295,29 +335,12 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?token=sohelipt
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Info" , NASA TV (akamai)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" , National Geographic HD
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" , National Geographic RU
-http://iptv.prosto.tv:7000/ch83/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" , National Geographic Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News" , Al Jazeera HD
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" , Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://adnas.com/wp-content/uploads/2019/08/fox-news-logo.jpg" , FOX NEWS
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1.png" , CNN NEWS
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -335,5 +358,3 @@ http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" , Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-
-
