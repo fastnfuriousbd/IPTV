@@ -1,6 +1,8 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336030.jpeg" group-title="SUNPLEX",GAZI TV
 http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="hhttps://i.ibb.co/w0ckhWP/index.png" group-title="SUNPLEX",SONY ESPN
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336025.jpg" group-title="SUNPLEX",MAASRANGA TV
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336026.png" group-title="SUNPLEX",EKATTOR TV
@@ -29,14 +31,10 @@ http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336041.png" group-title="SUNPLEX",BANGLA VISION
 http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336042.png" group-title="SUNPLEX",BTV
-http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336068.jpg" group-title="SUNPLEX",SONY TEN 1
 http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336070.jpg" group-title="SUNPLEX",SONY TEN 2 HD
 http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="hhttps://i.ibb.co/w0ckhWP/index.png" group-title="SUNPLEX",SONY ESPN
-http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336073.png" group-title="SUNPLEX",STAR SPORTS 1
 http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAAN BANGLA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336087.png" group-title="SUNPLEX",GAAN BANGLA
@@ -61,16 +59,6 @@ http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , group-title="KIDS" ,  Cartoon Network RU
-http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" , group-title="KIDS" ,  Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" ,  group-title="KIDS" , GUBBARE KIDS
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" , group-title="KIDS" ,  Aniplus
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" , group-title="KIDS" ,  Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
 
 
@@ -80,42 +68,6 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 
 
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" , group-title="Sports" ,  DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , group-title="Sports" ,  PTV Sports
-https://236s.short.gy/DreamTV/PTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , group-title="Sports" ,  Sony Ten 1 HD
-http://208.86.19.21:80/726.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" , group-title="Sports" ,  Sony Ten 2 HD
-http://208.86.19.21:80/712.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" , group-title="Sports" ,  Sony Ten 3 HD
-http://208.86.19.21:80/713.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , group-title="Sports" ,  Star Sports 1 HD
-http://208.86.19.21:80/724.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" , group-title="Sports" ,  Willow HD
-http://208.86.19.21:80/731.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , group-title="Sports" ,  Astro Cricket
-http://208.86.19.21:80/720.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" , group-title="Sports" ,  A Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , group-title="Sports" ,  beiN Sports 1
-https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , group-title="Sports" ,  beiN Sports 2
-https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="New Logo" , group-title="Sports" ,  Bt Sports 2
-https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , group-title="Sports" ,  Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" , group-title="Sports" ,  Ad Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , group-title="Sports" ,  Ad Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" , group-title="Sports" ,  Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" , group-title="Sports" ,  Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" , group-title="Sports" ,  Red Bull TV Sports (akamai)
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 
@@ -227,6 +179,100 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" , group-title="Sports" ,  DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , group-title="Sports" ,  PTV Sports
+https://236s.short.gy/DreamTV/PTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , group-title="Sports" ,  Sony Ten 1 HD
+http://208.86.19.21:80/726.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" , group-title="Sports" ,  Sony Ten 2 HD
+http://208.86.19.21:80/712.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" , group-title="Sports" ,  Sony Ten 3 HD
+http://208.86.19.21:80/713.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , group-title="Sports" ,  Star Sports 1 HD
+http://208.86.19.21:80/724.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" , group-title="Sports" ,  Willow HD
+http://208.86.19.21:80/731.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , group-title="Sports" ,  Astro Cricket
+http://208.86.19.21:80/720.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" , group-title="Sports" ,  A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , group-title="Sports" ,  beiN Sports 1
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , group-title="Sports" ,  beiN Sports 2
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="New Logo" , group-title="Sports" ,  Bt Sports 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , group-title="Sports" ,  Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" , group-title="Sports" ,  Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , group-title="Sports" ,  Ad Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" , group-title="Sports" ,  Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" , group-title="Sports" ,  Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" , group-title="Sports" ,  Red Bull TV Sports (akamai)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , group-title="KIDS" ,  Cartoon Network RU
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" , group-title="KIDS" ,  Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" ,  group-title="KIDS" , GUBBARE KIDS
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" , group-title="KIDS" ,  Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" , group-title="KIDS" ,  Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Info" , NASA TV (akamai)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" , National Geographic HD
@@ -322,10 +368,6 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_240p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/B4U_Kadak?file=B4U_Kadak.jpeg" , Kadak Music
 https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" , Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , CTVN Akd Plus
@@ -354,7 +396,10 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?token=sohelipt
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" , Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
