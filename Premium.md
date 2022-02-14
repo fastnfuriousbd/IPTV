@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336030.jpeg" group-title="SUNPLEX",GAZI TV
 http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="hhttps://i.ibb.co/w0ckhWP/index.png" group-title="SUNPLEX",SONY ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i.ibb.co/w0ckhWP/index.png" group-title="SUNPLEX",T SPORTS
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336025.jpg" group-title="SUNPLEX",MAASRANGA TV
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
