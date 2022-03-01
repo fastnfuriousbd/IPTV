@@ -1,57 +1,56 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336030.jpeg" group-title="SUNPLEX",GAZI TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/p2qY37J/GTV.png" group-title="SUNPLEX",GAZI TV
 http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i.ibb.co/w0ckhWP/index.png" group-title="SUNPLEX",T SPORTS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="SUNPLEX",T SPORTS
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336025.jpg" group-title="SUNPLEX",MAASRANGA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg" group-title="SUNPLEX",MAASRANGA TV
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336026.png" group-title="SUNPLEX",EKATTOR TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV" tvg-logo="https://i.ibb.co/FqH3wXv/Ekattor-TV-logo.png" group-title="SUNPLEX",EKATTOR TV
 http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336036.jpeg" group-title="SUNPLEX",INDEPENDENT TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV" tvg-logo="https://i.ibb.co/4Z7jJLf/Independent.jpg" group-title="SUNPLEX",INDEPENDENT TV
 http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336027.png" group-title="SUNPLEX",NAGORIK TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/zfBnWJX/Nagorik.jpg" group-title="SUNPLEX",NAGORIK TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336037.jpg" group-title="SUNPLEX",JAMUNA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://i.ibb.co/48nc4dN/Jamuna.jpg" group-title="SUNPLEX",JAMUNA TV
 http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336038.jpeg" group-title="SUNPLEX",SOMOY TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/4sq5QHP/Somoy-News-Bangladesh.jpg" group-title="SUNPLEX",SOMOY TV
 http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336040.jpeg" group-title="SUNPLEX",CHANNEL 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="https://i.ibb.co/GFHgFtG/Channel-24.jpg" group-title="SUNPLEX",CHANNEL 24
 http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336028.png" group-title="SUNPLEX",CHANNEL I
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I" tvg-logo="https://i.ibb.co/YynwSyZ/Channel-i.png" group-title="SUNPLEX",CHANNEL I
 http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEPTO BANGLA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336029.jpeg" group-title="SUNPLEX",DEPTO BANGLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEPTO BANGLA" tvg-logo="https://i.ibb.co/6PbMx0p/deepto-tv.jpg" group-title="SUNPLEX",DEPTO BANGLA
 http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336031.png" group-title="SUNPLEX",CHANNEL 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9" tvg-logo="https://i.ibb.co/5hHkBqM/Channel-9.jpg" group-title="SUNPLEX",CHANNEL 9
 http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336033.png" group-title="SUNPLEX",NTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://i.ibb.co/0FDymyX/NTV-Bangladesh-logo.png" group-title="SUNPLEX",NTV
 http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336034.png" group-title="SUNPLEX",ATN BANGLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/3dT8rw9/atn.png" group-title="SUNPLEX",ATN BANGLA
 http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336039.jpeg" group-title="SUNPLEX",EKUSHEY TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV" tvg-logo="https://i.ibb.co/pjdnYB6/Ekushey.jpg" group-title="SUNPLEX",EKUSHEY TV
 http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336041.png" group-title="SUNPLEX",BANGLA VISION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION" tvg-logo="https://i.ibb.co/4MpR2n8/Banglavsion-TV.png" group-title="SUNPLEX",BANGLA VISION
 http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336068.jpg" group-title="SUNPLEX",SONY TEN 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1" tvg-logo="https://i.ibb.co/t4tWvPs/sony-ten1-sd.png" group-title="SUNPLEX",SONY TEN 1
 http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336070.jpg" group-title="SUNPLEX",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="https://i.ibb.co/qF8k0H0/sony-ten2-hd.png" group-title="SUNPLEX",SONY TEN 2 HD
 http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336073.png" group-title="SUNPLEX",STAR SPORTS 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1" tvg-logo="https://i.ibb.co/GPvshqQ/Star-sports.jpg" group-title="SUNPLEX",STAR SPORTS 1
 http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAAN BANGLA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336087.png" group-title="SUNPLEX",GAAN BANGLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAAN BANGLA" tvg-logo="https://i.ibb.co/Ht36Cj8/Gaan-Bangla.jpg" group-title="SUNPLEX",GAAN BANGLA
 http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336091.jpg" group-title="SUNPLEX",MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.ibb.co/jfhX3Vb/MTV-Emblem.png" group-title="SUNPLEX",MTV
 http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC EARTH" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336080.jpeg" group-title="SUNPLEX",BBC EARTH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/K905Ksg/BBC-Earth-logo-2015.png" group-title="SUNPLEX",BBC EARTH
 http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336081.png" group-title="SUNPLEX",DURONTO TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.ibb.co/7rx1bNz/Duronto.png" group-title="SUNPLEX",DURONTO TV
 http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY AATH" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336043.png" group-title="SUNPLEX",SONY AATH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/k8NSYYm/sonyaath.webp" group-title="SUNPLEX",SONY AATH
 http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BANGLA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336044.png" group-title="SUNPLEX",ZEE BANGLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/khr5T1F/Z-Bangla.jpg" group-title="SUNPLEX",ZEE BANGLA
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="https://m3u-editor.com/storage/channel-logos/c3fb99e0-610e-11ea-8cc5-017af416b630/144021/22336045.jpeg" group-title="SUNPLEX",STAR JALSHA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/PFSVZD1/Star-Jalsha-logo.jpg" group-title="SUNPLEX",STAR JALSHA
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
-
 
 
 
