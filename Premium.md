@@ -68,7 +68,16 @@ http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Sports",Sports LIVE 1
+https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniK2fdrV2deS_O6jtRD2382-d43D5WL1Szhb9IyNg=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Sports LIVE 2
+https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 2 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 3 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 
 
@@ -227,6 +236,7 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" , group-title="Sports" ,  Red Bull TV Sports (akamai)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
 
 
 
