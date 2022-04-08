@@ -7,7 +7,7 @@ http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV" tvg-logo="https://i.ibb.co/4Z7jJLf/Independent.jpg" group-title="SUNPLEX",INDEPENDENT TV
 http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" , DBC News
+#EXTINF:-1 tvg-logo="https://ibb.co/yYB6hpv" , DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/zfBnWJX/Nagorik.jpg" group-title="SUNPLEX",NAGORIK TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
@@ -90,6 +90,18 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 3 HD
 https://toffeelive.com/cf32a7a9-300d-4774-90a1-782bde05196e
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://ibb.co/N2YmDYH" group-title="Sports",Star Sports 2 HD
+http://182.50.65.213:8888/udp/239.239.0.4:3001/index.m3u8
 
 
 
