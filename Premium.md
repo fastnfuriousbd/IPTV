@@ -2,7 +2,9 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/p2qY37J/GTV.png" group-title="SUNPLEX",GAZI TV
 http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="SUNPLEX",T SPORTS
-http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV" tvg-logo="https://storage.sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="SUNPLEX",MAASRANGA TV
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg" group-title="SUNPLEX",MAASRANGA TV
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV" tvg-logo="https://i.ibb.co/4Z7jJLf/Independent.jpg" group-title="SUNPLEX",INDEPENDENT TV
