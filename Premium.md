@@ -3,13 +3,13 @@
 http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="SUNPLEX",T SPORTS
 http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV" tvg-logo="https://storage.sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="SUNPLEX",MAASRANGA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV" tvg-logo="https://storage.sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="SUNPLEX",EKATTOR TV
 http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg" group-title="SUNPLEX",MAASRANGA TV
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV" tvg-logo="https://i.ibb.co/4Z7jJLf/Independent.jpg" group-title="SUNPLEX",INDEPENDENT TV
 http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/yYB6hpv" , DBC News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJhxQrj/dbc-news-live-24-7-logo.jpg" , DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/zfBnWJX/Nagorik.jpg" group-title="SUNPLEX",NAGORIK TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
