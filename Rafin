@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 1
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 2
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV
+http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla News",Nagorik TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV H
+http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
+
+#EXTINF:-1,Nagorik Tv
+http://103.205.133.20/hls/nagorik.m3u8
