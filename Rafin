@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 1
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 2
-http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV
 http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
