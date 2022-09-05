@@ -65,44 +65,44 @@ http://223.29.212.14:8080/roarzone/4/index.m3u8?token=405f14feba12632ecd65156590
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png",DBC News
 http://223.29.212.14:8080/roarzone/7/index.m3u8?token=b53f0b84f4dc1e831d8688121c183c325faa05d0-cdb86217730f37f1926d7217004a0cd5-1662368370-1662357570
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/260px-My_TV_Logo.svg.png",My TV 
+http://223.29.212.14:8080/roarzone/56/index.m3u8?token=8364df935bf0f90d5ed459ecb641fb3c5e36b1c2-ff6dd4aa538ea1660a00db3eeaaf9151-1662368464-1662357664
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png",Deepto TV
+http://223.29.212.14:8080/roarzone/8/index.m3u8?token=9ace0d0bd3f59ec49bf4f6f4052fc27cc1a08381-d08cdd7376c9cb9367c81c7d4a48d87c-1662368536-1662357736
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png",SA TV
+http://223.29.212.14:8080/roarzone/15/index.m3u8?token=068c8bc39980d6b5f86d1df73a53af65ecf797ed-073985856c80be5e6f5d25fdeb2281ea-1662368602-1662357802
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png",Ekattor
+http://223.29.212.14:8080/roarzone/11/index.m3u8?token=cd6005934cd6a193481216be1066527c0dc7092c-ccfd4e22b8d8d230a8bd9227933e0ace-1662368664-1662357864
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png",Asian TV
+http://223.29.212.14:8080/roarzone/62/index.m3u8?token=d310a075251ac8b8311e4362dfab24bc16b79c2b-aa5fc3cc2d8e1efdc69141a0c4f73c2e-1662368730-1662357930
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png",Boishakhi Television
+http://223.29.212.14:8080/roarzone/61/index.m3u8?token=7c2b58a2dffdf67873775966901ba2386b6d3b5b-064970a2d213ff7eb696f8b0869a1a83-1662368872-1662358072
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/200px-Mohona_tv_Logo.svg.png",Mohona Television
+http://223.29.212.14:8080/roarzone/50/index.m3u8?token=7f16095fab7b40a0a53cf6b314a2b1b5a35d3e0d-d465c5e190c58f76994aeb8e0c2ebda9-1662368961-1662358161
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png",BANGLA TV
+http://223.29.212.14:8080/roarzone/19/index.m3u8?token=766e473a2ce3ba12bd1500189129de85a1ff24bc-6a046a0d31e3675c6debce2edea4fa51-1662369042-1662358242
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/220px-Ananda_TV_Logo.png",Ananda TV
+http://223.29.212.14:8080/roarzone/16/index.m3u8?token=5d5d82482ba35d32b8004ce03a6ff7f5225896c7-b4d5bfd8117cf0eaaa600de832fa94aa-1662369106-1662358306
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN ISLAMIC" tvg-logo="http://atnislamic.tv/images/logo.png",ATN ISLAMIC
+http://223.29.212.14:8080/roarzone/63/index.m3u8?token=359db3b20e83283ce38e80ab4b44f561aa83613d-86a7f783ad996fcbe89d157fe882d12a-1662369164-1662358364
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF",ATN NEWS
+http://223.29.212.14:8080/roarzone/49/index.m3u8?token=ab7c05466b68a3e4a6bfaccded15f973502a36ce-464bbb2066869e8df51306b3ff675eb4-1662369336-1662358536
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIE BANGLA" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClSnZA1CfOAthQMETSutoM2C6Tzi0lY0yc8w=s900-mo-c-c0xffffffff-rj-k-no",MOVIE BANGLA
+http://223.29.212.14:8080/roarzone/19/index.m3u8?token=8903177b56bee7e86a888eb22555aa0240575173-fd4f6c461c57330895eefffa64415f82-1662369420-1662358620
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
-http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DESH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Desh_TV_Logo.svg/200px-Desh_TV_Logo.svg.png",DESH TV
+http://223.29.212.14:8080/roarzone/9/index.m3u8?token=1f527f1bd50c79135d2f8d88d250707dcb301c6c-6b657709d3f0c49811d2f250d4fa27f2-1662369544-1662358744
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
