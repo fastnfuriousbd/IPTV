@@ -1,21 +1,19 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZY1W5vj/Kajenna-magic-cat-5.png" , Rafin
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
 http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rw36TT4/dog-67.jpg" , Tashbid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
 http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
 
-#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://storage.sunplex.net/iptv/logo/t-sports.jpg" group-title="",T SPORTS
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://storage.sunplex.net/iptv/logo/t-sports.jpg",T SPORTS
 http://223.29.212.14:8080/roarzone/102/index.m3u8?token=094de58312d7d224dbe5cb0d0050c1d3e03e9604-ea2157ec1530a33e3e8a9584cb0ed83d-1662282630-1662271830
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla News",Nagorik TV
+#EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla News",Nagorik TV
 http://223.29.212.14:8080/roarzone/59/index.m3u8?token=c0a206681069ae13a3864ef5a2dd7fbe6a9cacc8-207d56fc0e13793e6f144528bcc0a902-1662282766-1662271966
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV H
-http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://ibb.co/N2YmDYH" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://ibb.co/N2YmDYH" group-title="Sports",Star Sports 1 HD
 http://223.29.212.14:8080/roarzone/27/index.m3u8?token=3b54d539035c7fdce410a9d08e68f1a17d6abbf6-63d2783f7f1caba6ffda10537f7aa6f5-1662282919-1662272119
 
 
@@ -24,5 +22,94 @@ http://223.29.212.14:8080/roarzone/27/index.m3u8?token=3b54d539035c7fdce410a9d08
 http://223.29.212.14:8080/roarzone/28/index.m3u8?token=652438bd6f942f2047c0e81303bbdc4b1245ab48-4ba94cc30c600d6fe8b9b660601ac52b-1662283045-1662272245
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg" group-title="SUNPLEX",MAASRANGA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",JAMUNA TV
+http://223.29.212.14:8080/roarzone/13/index.m3u8?token=309fb03483766720283101f67074ac087b8b0d27-b7767895328aa9fcdcf1c56446953cf2-1662366111-1662355311
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SOMOY NEWS
+http://223.29.212.14:8080/roarzone/17/index.m3u8?token=e453393e2bd61d75513647aa31aa26d1c23b9891-98c4b3379de160f2e467bbfa69a1933f-1662367005-1662356205
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png",CHANNEL I
+http://223.29.212.14:8080/roarzone/6/index.m3u8?token=b57bbdfdc856eeba1ca7236277ebf455e30b9749-14ff532a0c126d23d04a422e0dd1bfd8-1662367116-1662356316
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg",NEWS 24
+http://223.29.212.14:8080/roarzone/18/index.m3u8?token=4e9214fd3aef7a635464668f571e2cd7b4449268-d5021b50ea6654d273fd15cbec1f6c63-1662367204-1662356404
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=91d15cb1e0ecce4e534c3dd4741e6e7e8233b859-abe07557d787a238ffba5e162502fb22-1662367316-1662356516
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/200px-Ekushey_Television_Logo.svg.png",EKUSHEY TELEVISION
+http://223.29.212.14:8080/roarzone/65/index.m3u8?token=375d4d99e2ea0a81f275c6ec4717b638bbdf5d4c-03cbf0ef4766184f5e69cac924efc9c3-1662367351-1662356551
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/200px-Channel24logo.svg.png",CHANNEL 24
+http://223.29.212.14:8080/roarzone/5/index.m3u8?token=043199c197b37f3a8f6bd20ead2f5ac5cd583014-70ec94b8580d35c4c9d3fefeea725cc9-1662367442-1662356642
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png",RTV
+http://223.29.212.14:8080/roarzone/14/index.m3u8?token=18225b8f1ad3c0da624355ada38f2a3825e8d04d-5aa5a33a72de315194d3389e53640b13-1662367548-1662356748
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
