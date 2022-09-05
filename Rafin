@@ -104,8 +104,50 @@ http://223.29.212.14:8080/roarzone/19/index.m3u8?token=8903177b56bee7e86a888eb22
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DESH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Desh_TV_Logo.svg/200px-Desh_TV_Logo.svg.png",DESH TV
 http://223.29.212.14:8080/roarzone/9/index.m3u8?token=1f527f1bd50c79135d2f8d88d250707dcb301c6c-6b657709d3f0c49811d2f250d4fa27f2-1662369544-1662358744
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png",COLORS BANGLA
+http://223.29.212.14:8080/roarzone/66/index.m3u8?token=d381f52ce2b3073cec3957c6b0a6298340d2f96c-4d86bfe71597d96b7d64a440d437e712-1662369664-1662358864
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png",Sony Aath
+http://223.29.212.14:8080/roarzone/33/index.m3u8?token=c8e9ef8739f0dbfb97c312f900f8bbe2289fc2f6-facbc4c3424ec520031970e843c0d59e-1662369832-1662359032
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/200px-Zee_Bangla_New_Logo.jpg",Zee Bangla
+http://223.29.212.14:8080/roarzone/34/index.m3u8?token=85ef3cb452a5c700502f26d324c8767aa5346516-fc637a9431f1a77987b31c894dd83021-1662369892-1662359092
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg",Zee Bangla Cinema
+http://223.29.212.14:8080/roarzone/29/index.m3u8?token=5d51485fd23d7d4444695f3b587e85cda4818ff7-9f0ceebc59e6b5a683c1f6de5958945f-1662369952-1662359152
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jalsha
+http://223.29.212.14:8080/roarzone/30/index.m3u8?token=506223ff0d92926c3b70036ad7ce6d14de1c833d-21c02775ec9bb13961d9b0a966949124-1662370056-1662359256
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Jalsha-movies-hd.jpg/revision/latest?cb=20160524181421",Star Jalsha Movies
+http://223.29.212.14:8080/roarzone/31/index.m3u8?token=628a147b3591e600fe2ea4c823528734658f6bbb-cc1d04321065d710341d7dbccece4ae2-1662370103-1662359303
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png",HBO
+http://223.29.212.14:8080/roarzone/42/index.m3u8?token=48b3c2be4c942e78bdab75778dd9fe1ff0f7b3f7-814910e0f583b68206ba4601c7279616-1662370258-1662359458
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Zee_Action.jpg/revision/latest/scale-to-width-down/220?cb=20171105144346",ZEE ACTION
+http://223.29.212.14:8080/roarzone/78/index.m3u8?token=0d854147489e5ab598699962bd216c7877cc7479-6dc7db8b2b793da520a6df20f2ba41a8-1662370318-1662359518
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png",Sony Pix
+http://223.29.212.14:8080/roarzone/41/index.m3u8?token=747525c97e45322ea8b7b3e7cd84c566a204db23-5f3e5a33f4da5fd829650d11b302e120-1662370468-1662359668
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
+http://223.29.212.14:8080/roarzone/44/index.m3u8?token=a6090fbf92c772cc869e5efd8571e2a650e23ba2-a8d95aadbed06771fe2b9c30d1928daa-1662370538-1662359738
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/220px-STAR_Movies_logo.svg.png",Star Movies Select HD
+http://223.29.212.14:8080/roarzone/39/index.m3u8?token=b954eab738b2f082451c3a11b7412370a230b689-c15e135f420778d78aae30edc3deb00b-1662370640-1662359840
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
