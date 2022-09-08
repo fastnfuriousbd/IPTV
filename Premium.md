@@ -6,6 +6,14 @@ http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://storage.sunplex.net/iptv/logo/t-sports.jpg" group-title="",T SPORTS
 http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
+http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
+
+
+#EXTINF:-1 tvg-name="PTV Sportd" tvg-logo="https://img.favpng.com/19/8/25/logo-ptv-sports-television-channel-pakistan-png-favpng-tUGSR3EfZeCiX1ir9GFivpweJ.jpg" group-title="Sports",PTV Sports
+http://223.29.212.14:8080/roarzone/73/index.m3u8?token=608551bbc11ad6b21658f0a48912089eda265992-ec91bc481c89576db2280818e876f984-1662371952-1662361152
+
 #EXTINF:-1 tvg-name="SONY SIX" tvg-logo="https://storage.sunplex.net/iptv/logo/sony-six-hd.jpg" group-title="",SONY SIX
 http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
 
