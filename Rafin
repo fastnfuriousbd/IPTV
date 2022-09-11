@@ -7,13 +7,15 @@ http://10.28.28.2:8080/roarzone/1/index.m3u8?token=abd592ef6dd7450854f0ff96887c6
 http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
 
 #EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",T SPORTS
-http://223.29.212.14:8080/roarzone/102/index.m3u8?token=094de58312d7d224dbe5cb0d0050c1d3e03e9604-ea2157ec1530a33e3e8a9584cb0ed83d-1662282630-1662271830
+http://10.28.28.2:8080/roarzone/102/index.m3u8?token=ab4a6183f9dc204b196babc67d09597e669772a7-a7653313b2d4843e7dcb654a5707aa6a-1662913873-1662903073
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" ,Nagorik TV
 http://10.28.28.2:8080/roarzone/59/index.m3u8?token=2c1f880ae950708eedb68a7da2f8b11e28fab262-46813ed489bbb5ec45f5d67ee00f49e4-1662913757-1662902957
 
-
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports 1 HD
+http://10.28.28.2:8080/roarzone/25/index.m3u8?token=437d372f09245cbe9a502be7b8a42d424e054150-bcad9e4a9dc39cfc4567593db2406f64-1662913840-1662903040
+
+#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports Select 1 HD
 http://10.28.28.2:8080/roarzone/27/index.m3u8?token=96c5b4fd91900c72d056b078c43480e28c7cb550-fcf911cd618e79fd85ec694f5d8c5ebd-1662913469-1662902669
 
 
