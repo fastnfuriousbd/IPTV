@@ -13,12 +13,12 @@ http://223.29.212.14:8080/roarzone/102/index.m3u8?token=094de58312d7d224dbe5cb0d
 http://223.29.212.14:8080/roarzone/59/index.m3u8?token=c0a206681069ae13a3864ef5a2dd7fbe6a9cacc8-207d56fc0e13793e6f144528bcc0a902-1662282766-1662271966
 
 
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://ibb.co/N2YmDYH" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports 1 HD
 http://223.29.212.14:8080/roarzone/27/index.m3u8?token=3b54d539035c7fdce410a9d08e68f1a17d6abbf6-63d2783f7f1caba6ffda10537f7aa6f5-1662282919-1662272119
 
 
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://ibb.co/N2YmDYH" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://i.ibb.co/VYBQnBP/star-sports-2.jpg" group-title="Sports",Star Sports 2 HD
 http://223.29.212.14:8080/roarzone/28/index.m3u8?token=652438bd6f942f2047c0e81303bbdc4b1245ab48-4ba94cc30c600d6fe8b9b660601ac52b-1662283045-1662272245
 
 
@@ -33,7 +33,7 @@ http://223.29.212.14:8080/roarzone/21/index.m3u8?token=567c693cb602306a724ac7f5d
 http://223.29.212.14:8080/roarzone/22/index.m3u8?token=b796372600590e4ccdde6c10fc8d6f4ff603732c-3f2492e4b6cc469d15b2ff896675aa26-1662371877-1662361077
 
 
-#EXTINF:-1 tvg-name="PTV Sportd" tvg-logo="https://img.favpng.com/19/8/25/logo-ptv-sports-television-channel-pakistan-png-favpng-tUGSR3EfZeCiX1ir9GFivpweJ.jpg" group-title="Sports",PTV Sports
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/vdhYgt8/Ptv-Sports-Latest-Frequency-On-Paksat-38-E-2016.png" group-title="Sports",PTV Sports
 http://223.29.212.14:8080/roarzone/73/index.m3u8?token=608551bbc11ad6b21658f0a48912089eda265992-ec91bc481c89576db2280818e876f984-1662371952-1662361152
 
 
