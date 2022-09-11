@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
-http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
+http://10.28.28.2:8080/roarzone/1/index.m3u8?token=abd592ef6dd7450854f0ff96887c6f85d725249a-3f5a58558bebff4ec8156a9de0a810ef-1662913192-1662902392
 
 
 
@@ -10,35 +10,38 @@ http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acb
 http://223.29.212.14:8080/roarzone/102/index.m3u8?token=094de58312d7d224dbe5cb0d0050c1d3e03e9604-ea2157ec1530a33e3e8a9584cb0ed83d-1662282630-1662271830
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" ,Nagorik TV
-http://223.29.212.14:8080/roarzone/59/index.m3u8?token=c0a206681069ae13a3864ef5a2dd7fbe6a9cacc8-207d56fc0e13793e6f144528bcc0a902-1662282766-1662271966
+http://10.28.28.2:8080/roarzone/59/index.m3u8?token=2c1f880ae950708eedb68a7da2f8b11e28fab262-46813ed489bbb5ec45f5d67ee00f49e4-1662913757-1662902957
 
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports 1 HD
-http://223.29.212.14:8080/roarzone/27/index.m3u8?token=3b54d539035c7fdce410a9d08e68f1a17d6abbf6-63d2783f7f1caba6ffda10537f7aa6f5-1662282919-1662272119
+http://10.28.28.2:8080/roarzone/27/index.m3u8?token=96c5b4fd91900c72d056b078c43480e28c7cb550-fcf911cd618e79fd85ec694f5d8c5ebd-1662913469-1662902669
 
 
 
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://i.ibb.co/VYBQnBP/star-sports-2.jpg" group-title="Sports",Star Sports 2 HD
-http://223.29.212.14:8080/roarzone/28/index.m3u8?token=652438bd6f942f2047c0e81303bbdc4b1245ab48-4ba94cc30c600d6fe8b9b660601ac52b-1662283045-1662272245
+http://10.28.28.2:8080/roarzone/28/index.m3u8?token=19df14e8be1a1d596543ed9a0a407a34dbb04605-613da20e600a7112b80301ae9b3607b5-1662913406-1662902606
 
 
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://www.indiantvinfo.com/media/2020/09/Sony-Ten-1-HD-Channel.png" group-title="Sports",Sony Ten 1
-http://223.29.212.14:8080/roarzone/20/index.m3u8?token=3410493b04df330b2a294015e4846cf9bc59b00d-5d392212ff5fdf02907131780913d016-1662371294-1662360494
+http://10.28.28.2:8080/roarzone/20/index.m3u8?token=7ae84fd5a895bb780d93f8f147bf5035a300e2f7-2acf1b2a804177c8b69a6fb05bbfaa87-1662913660-1662902860
 
 #EXTINF:-1 tvg-name="Sony Ten 2 " tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-logo-300x300.jpg" group-title="Sports",Sony Ten 2 
-http://223.29.212.14:8080/roarzone/21/index.m3u8?token=567c693cb602306a724ac7f5d2231876b2b1faa7-caad1d36b351ef98ab9680c4dbab3ba3-1662371792-1662360992
+http://10.28.28.2:8080/roarzone/21/index.m3u8?token=c3eb479df85f8d76494e24d0179e550e25a83279-89ce8f9cab6e15d13afd07cc1fbf7809-1662913633-1662902833
 
 
 #EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20170818190243" group-title="Sports",Sony Ten 3
-http://223.29.212.14:8080/roarzone/22/index.m3u8?token=b796372600590e4ccdde6c10fc8d6f4ff603732c-3f2492e4b6cc469d15b2ff896675aa26-1662371877-1662361077
+http://10.28.28.2:8080/roarzone/22/index.m3u8?token=9ab4474a7f0408b8a6aee45e1e4dfd2ff3b8ae72-c674df75dc32b8a0b503a86ece7f77e7-1662913603-1662902803
 
 
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/vdhYgt8/Ptv-Sports-Latest-Frequency-On-Paksat-38-E-2016.png" group-title="Sports",PTV Sports
-http://223.29.212.14:8080/roarzone/73/index.m3u8?token=608551bbc11ad6b21658f0a48912089eda265992-ec91bc481c89576db2280818e876f984-1662371952-1662361152
+http://10.28.28.2:8080/roarzone/73/index.m3u8?token=d16274fc40be15bcceba4427ff106d032c3ee631-2aa6a93dda14910a40051c9eb48dcda3-1662913332-1662902532
 
 
 #EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony Six
 http://223.29.212.14:8080/roarzone/24/index.m3u8?token=1734e5ced6e74a988315c14883f8a06624d092e2-e08553008d2371ccfc3e4472b555dd89-1662371038-1662360238
+
+EXTINF:-1 tvg-name="Sony ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony ESPN
+http://10.28.28.2:8080/roarzone/23/index.m3u8?token=7848033400401352e0123a246b6176c89428b6de-0531ffd17e4efc2e0c56484b8775576b-1662913509-1662902709
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://223.29.212.14:8080/roarzone/51/index.m3u8?token=74c8a5df6c03f439e2c9281db5a5c3d33474b4c6-ae7664f25de0eab328c6331ea5ed979b-1662283099-1662272299
