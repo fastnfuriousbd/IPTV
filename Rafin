@@ -46,11 +46,18 @@ http://10.28.28.2:8080/roarzone/23/index.m3u8?token=7848033400401352e0123a246b61
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://10.28.28.2:8080/roarzone/51/index.m3u8?token=a8169a5586544fa13f4f097c6cc5fbd605f21bda-1b8d4e311531e0973aaaa687f04b1fd6-1663147306-1663136506
 
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.ibb.co/7rx1bNz/Duronto.png" group-title="Kids",DURONTO TV
 http://10.28.28.2:8080/roarzone/10/index.m3u8?token=58f8d1f10195cda61f9cbb4d9853669e9c4d0d83-4842061ef18819ec6412102a8b2ca3ac-1663148439-1663137639
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHLJ9GG/54.jpg" group-title="Kids",Cartoon Network
 http://10.28.28.2:8080/roarzone/79/index.m3u8?token=f6859492888e8c7b2b1c40a8a28e0ae6f66680ef-da8685846cbae5fc089cc7f7f9223327-1663148514-1663137714
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="Bangla News",Independent
+http://10.28.28.2:8080/roarzone/12/index.m3u8?token=0673b497eb6554bc5ad36e433aea1aa276d12096-9ab36ef008405b820adab08e158d6364-1663148331-1663137531
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangla News" ,JAMUNA TV
@@ -67,9 +74,6 @@ http://10.28.28.2:8080/roarzone/6/index.m3u8?token=5fddddd3b198dfa7c449df913388e
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangla News" ,NEWS 24
 http://10.28.28.2:8080/roarzone/18/index.m3u8?token=749ad323b76be6c9b79b22f99a0bca76186f0461-eead0f4d7d38ac67b10098a7f1bb3b06-1663147397-1663136597
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="Bangla News",Independent
-http://10.28.28.2:8080/roarzone/12/index.m3u8?token=0673b497eb6554bc5ad36e433aea1aa276d12096-9ab36ef008405b820adab08e158d6364-1663148331-1663137531
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png",DBC News
 http://10.28.28.2:8080/roarzone/7/index.m3u8?token=80de9da65e884b3da8d9d0938abc28be37c086ba-d490de0c5a7808371e18db3695c60bdd-1663147552-1663136752
