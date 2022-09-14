@@ -178,7 +178,7 @@ http://10.28.28.2:8080/roarzone/60/index.m3u8?token=2da04c9f7235abd99749f9040a82
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jfhX3Vb/MTV-Emblem.png" group-title="Music" , MTV
 http://10.28.28.2:8080/roarzone/46/index.m3u8?token=ac941154151b63c420e8bb1c5df27d368d9effa0-1bb2c63825cf4e6680bf8959cf953fcc-1663149008-1663138208
 
-#EXTINF:-1 tvg-name="SONY MAX " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" group-title="",SONY MAX 
+#EXTINF:-1 tvg-name="SONY MAX " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" group-title="Indian" ,SONY MAX 
 http://10.28.28.2:8080/roarzone/77/index.m3u8?token=b66bc320260e6e350bc3cd1c5d666c1e44585b5d-5b83c372a3747f558548be7b1cb0b98b-1663149102-1663138302
 
 
