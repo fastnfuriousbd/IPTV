@@ -167,7 +167,7 @@ http://10.28.28.2:8080/roarzone/41/index.m3u8?token=fe8c7cc8eedf6c2a70b1322263df
 http://10.28.28.2:8080/roarzone/45/index.m3u8?token=3216c570394400d71f771603f9d8cb57c9002107-bf6871374245a4dcee7965a0db3e0ec0-1663148172-1663137372
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Gaan Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.ibb.co/Ht36Cj8/Gaan-Bangla.jpg" group-title="Bangladesh",Gaan Bangla
 http://10.28.28.2:8080/roarzone/58/index.m3u8?token=2c5260640bfa04b7f22e0108fc13d383c80d668d-2068d4c440db779735ea49c256eb3bc5-1663148780-1663137980
 
 
@@ -182,7 +182,7 @@ http://10.28.28.2:8080/roarzone/46/index.m3u8?token=ac941154151b63c420e8bb1c5df2
 http://10.28.28.2:8080/roarzone/77/index.m3u8?token=b66bc320260e6e350bc3cd1c5d666c1e44585b5d-5b83c372a3747f558548be7b1cb0b98b-1663149102-1663138302
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cF0vv6Y/sony.png" , SONY HD
 http://10.28.28.2:8080/roarzone/38/index.m3u8?token=611d5c7612568b03b4d201c33c4355ec5cf995ba-3e980756da9577e8a6f45b57253e5e08-1663149185-1663138385
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" , Colors HD
@@ -215,10 +215,10 @@ http://10.28.28.2:8080/roarzone/100/index.m3u8?token=bd8b267524509c85c9a5123ae07
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
 http://10.28.28.2:8080/roarzone/44/index.m3u8?token=052616f33b4e2a467fa980f51be6382274bffada-e95bcdc2bae4444b6a21a6b9d1543432-1663148107-1663137307
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Discovery Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Discovery Bangla
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Discovery" tvg-logo="https://i.ibb.co/NsNS6ky/Discovery.jpg" group-title="Info",Discovery 
 http://10.28.28.2:8080/roarzone/43/index.m3u8?token=b1888a89bfea84e20d08ed9400d6a17a82a3ae41-7574abdcb942ec5b4b3f902577556e1e-1663148616-1663137816
 
-#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAT GEO
+#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/FXZk01Q/National-Geographic-logo.png" group-title="Info",NAT GEO
 http://10.28.28.2:8080/roarzone/35/index.m3u8?token=fa32d6d6b3f3e261bd3501476fc5828f8382d04b-54148d606e38f563406993df04aa4443-1663148673-1663137873
 
 
