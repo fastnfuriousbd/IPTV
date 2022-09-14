@@ -14,12 +14,11 @@ http://10.28.28.2:8080/roarzone/59/index.m3u8?token=2c1f880ae950708eedb68a7da2f8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports 1 HD
 http://10.28.28.2:8080/roarzone/25/index.m3u8?token=437d372f09245cbe9a502be7b8a42d424e054150-bcad9e4a9dc39cfc4567593db2406f64-1662913840-1662903040
 
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.ibb.co/BBm0vcP/Star-Sports-Select-1.jpg" group-title="Sports",Star Sports Select 1 HD
 http://10.28.28.2:8080/roarzone/27/index.m3u8?token=96c5b4fd91900c72d056b078c43480e28c7cb550-fcf911cd618e79fd85ec694f5d8c5ebd-1662913469-1662902669
 
 
-
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://i.ibb.co/VYBQnBP/star-sports-2.jpg" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://i.ibb.co/S7N3YWn/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
 http://10.28.28.2:8080/roarzone/28/index.m3u8?token=19df14e8be1a1d596543ed9a0a407a34dbb04605-613da20e600a7112b80301ae9b3607b5-1662913406-1662902606
 
 
@@ -35,7 +34,7 @@ http://10.28.28.2:8080/roarzone/22/index.m3u8?token=9ab4474a7f0408b8a6aee45e1e4d
 
 
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/vdhYgt8/Ptv-Sports-Latest-Frequency-On-Paksat-38-E-2016.png" group-title="Sports",PTV Sports
-http://10.28.28.2:8080/roarzone/73/index.m3u8?token=d16274fc40be15bcceba4427ff106d032c3ee631-2aa6a93dda14910a40051c9eb48dcda3-1662913332-1662902532
+http://10.28.28.2:8080/roarzone/73/index.m3u8?token=903ceef6997b35fc276037418fe56e941b1e3018-c2ccd872fd09a3fbc500462863e8b1fd-1663152104-1663141304
 
 
 #EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony Six
@@ -57,6 +56,8 @@ http://10.28.28.2:8080/roarzone/79/index.m3u8?token=f6859492888e8c7b2b1c40a8a28e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",JAMUNA TV
 http://10.28.28.2:8080/roarzone/13/index.m3u8?token=42fb7286aee3adea65e50f5672be31991662fe67-a66a881da7e497906cd032f836e5eef5-1663147339-1663136539
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png",Ekattor
+http://10.28.28.2:8080/roarzone/11/index.m3u8?token=f665c65ada114068fbc983a7ac774591635eafde-d44932bd214b7656f77e2af30b5b9a58-1663147638-1663136838
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SOMOY NEWS
 http://10.28.28.2:8080/roarzone/17/index.m3u8?token=b7b0d3e042ff244f8e3f4f05b21b301ecbbaa25c-0a7ace75bf2597bae6e8b0c7b7803963-1663147362-1663136562
@@ -70,17 +71,22 @@ http://10.28.28.2:8080/roarzone/18/index.m3u8?token=749ad323b76be6c9b79b22f99a0b
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="Bangla News",Independent
 http://10.28.28.2:8080/roarzone/12/index.m3u8?token=0673b497eb6554bc5ad36e433aea1aa276d12096-9ab36ef008405b820adab08e158d6364-1663148331-1663137531
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736" group-title="Bangla News",BTV
-http://10.28.28.2:8080/roarzone/53/index.m3u8?token=b5d71285de5027a8aca46f441e6b3e133f994574-d10c56010d6c53862b75ef45b5197fed-1663148398-1663137598
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png",DBC News
+http://10.28.28.2:8080/roarzone/7/index.m3u8?token=80de9da65e884b3da8d9d0938abc28be37c086ba-d490de0c5a7808371e18db3695c60bdd-1663147552-1663136752
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/200px-Ekushey_Television_Logo.svg.png",EKUSHEY TELEVISION
-http://10.28.28.2:8080/roarzone/65/index.m3u8?token=b97f582fd6c835f2a930c3f38b1385242269f163-8539c8af88525dc9c6973bafc8b35057-1663147419-1663136619
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/200px-Channel24logo.svg.png",CHANNEL 24
 http://10.28.28.2:8080/roarzone/5/index.m3u8?token=4eddadef7f44ea822d1b78dcd08ca045b8c123c8-d9feaea87fa0de6651996b27e3bc439e-1663147438-1663136638
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png",RTV
 http://10.28.28.2:8080/roarzone/14/index.m3u8?token=81b2279355a2f8b77237205caa3e2f1e67237a43-bd75804cb5698a7ccebbabee80469931-1663147460-1663136660
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736" group-title="Bangla News",BTV
+http://10.28.28.2:8080/roarzone/53/index.m3u8?token=b5d71285de5027a8aca46f441e6b3e133f994574-d10c56010d6c53862b75ef45b5197fed-1663148398-1663137598
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/200px-Ekushey_Television_Logo.svg.png",EKUSHEY TELEVISION
+http://10.28.28.2:8080/roarzone/65/index.m3u8?token=b97f582fd6c835f2a930c3f38b1385242269f163-8539c8af88525dc9c6973bafc8b35057-1663147419-1663136619
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 http://10.28.28.2:8080/roarzone/54/index.m3u8?token=8ebfeb0b2947dd0bece595724d89b5557b368fb3-588c799343fbb4d47f72e6c0cb417be3-1663147481-1663136681
@@ -94,8 +100,7 @@ http://10.28.28.2:8080/roarzone/2/index.m3u8?token=a5c276f829f6ce88236618627a84e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/200px-Channel9_bd.svg.png",Channel 9 
 http://10.28.28.2:8080/roarzone/4/index.m3u8?token=7fd2f750c007f9a3d040bf6f99d029b11cc8a633-6ee292c1fc905fd1e6149fccbcd06364-1663147537-1663136737
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png",DBC News
-http://10.28.28.2:8080/roarzone/7/index.m3u8?token=80de9da65e884b3da8d9d0938abc28be37c086ba-d490de0c5a7808371e18db3695c60bdd-1663147552-1663136752
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/260px-My_TV_Logo.svg.png",My TV 
 http://10.28.28.2:8080/roarzone/56/index.m3u8?token=f723a604c98135918443751318ac9850bc9a9055-6f90ba0651a5e408d0570c05715fb22d-1663147569-1663136769
@@ -106,8 +111,7 @@ http://10.28.28.2:8080/roarzone/8/index.m3u8?token=2de4bc70f3f3c9b2873ac20db42a3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png",SA TV
 http://10.28.28.2:8080/roarzone/15/index.m3u8?token=df39712dad8a093bfa01ede6bf4320cd86e53c67-c11b9dfe9721035f89b37b125c56625b-1663147618-1663136818
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png",Ekattor
-http://10.28.28.2:8080/roarzone/11/index.m3u8?token=f665c65ada114068fbc983a7ac774591635eafde-d44932bd214b7656f77e2af30b5b9a58-1663147638-1663136838
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png",Asian TV
 http://10.28.28.2:8080/roarzone/62/index.m3u8?token=33c74904eb6be6af6500ea49a84190f37ae37089-a5dc6186d9f0f117007fd5a11fb9c015-1663147659-1663136859
@@ -136,34 +140,34 @@ http://10.28.28.2:8080/roarzone/19/index.m3u8?token=d7377b53cdde6b796a14d169d071
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DESH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Desh_TV_Logo.svg/200px-Desh_TV_Logo.svg.png",DESH TV
 http://10.28.28.2:8080/roarzone/9/index.m3u8?token=b04313ee4b532233369a67982b11e3a9a81bc3b2-e53c7fcc09047691478a4b7302a0d10c-1663147820-1663137020
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png",COLORS BANGLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla" ,COLORS BANGLA
 http://10.28.28.2:8080/roarzone/66/index.m3u8?token=de3aee55cf3f9c6862c89b0c82c4a40c29726894-8834456b655eb84d2130a5f91af5cdc2-1663147876-1663137076
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png",Sony Aath
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Indian Bangla" ,Sony Aath
 http://10.28.28.2:8080/roarzone/33/index.m3u8?token=5a874d52fd40182af09d4f24e68959945c50b428-0b167a59b03e538e4316dc3cc3c80791-1663147901-1663137101
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/200px-Zee_Bangla_New_Logo.jpg",Zee Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/200px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla" ,Zee Bangla
 http://10.28.28.2:8080/roarzone/34/index.m3u8?token=c7f08126a1ea4eb4ffca4df80d1cee4365d38a95-af3ded6e013a9bd397cd64886bba9a9d-1663147941-1663137141
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg",Zee Bangla Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla" ,Zee Bangla Cinema
 http://10.28.28.2:8080/roarzone/29/index.m3u8?token=cbbd7808798c203607d4b53ca27ee43a9323217d-53141f17a5a254a5d3f2646911b12768-1663147964-1663137164
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jalsha
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian Bangla" ,Star Jalsha
 http://10.28.28.2:8080/roarzone/30/index.m3u8?token=ca8263fa305bde8f75cff03e107a5a22061ad0e8-9c1da74bf8499e8af73ed39a12901b3e-1663147985-1663137185
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Jalsha-movies-hd.jpg/revision/latest?cb=20160524181421",Star Jalsha Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Jalsha-movies-hd.jpg/revision/latest?cb=20160524181421" group-title="Indian Bangla",Star Jalsha Movies
 http://10.28.28.2:8080/roarzone/31/index.m3u8?token=d4ee1c82cac44de269bdc3e8aeffa954ebf3536f-419a709a7617a444a84c80e17060e235-1663148003-1663137203
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png",HBO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Movie" ,HBO
 http://10.28.28.2:8080/roarzone/42/index.m3u8?token=9885cc43509f60dbe64814412473d2354c75528c-cec2254fadac185ffa7e68cbbe28f29a-1663148033-1663137233
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Zee_Action.jpg/revision/latest/scale-to-width-down/220?cb=20171105144346",ZEE ACTION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Zee_Action.jpg/revision/latest/scale-to-width-down/220?cb=20171105144346" group-title="Movie" ,ZEE ACTION
 http://10.28.28.2:8080/roarzone/42/index.m3u8?token=6f1f61d6a4ccaf3076314caaa60241671908b948-4c3d06173c64bea69823e307d30eae7e-1663148052-1663137252
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png",Sony Pix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png" group-title="Movie" ,Sony Pix
 http://10.28.28.2:8080/roarzone/41/index.m3u8?token=fe8c7cc8eedf6c2a70b1322263df30c2b90ff327-08ca0460df71d2bc02a6d0e0f6e235ad-1663148080-1663137280
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/220px-STAR_Movies_logo.svg.png",Star Movies Select HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://i.ibb.co/vw0jYRG/moviesnow.png" group-title="Movie" ,Movies Now
 http://10.28.28.2:8080/roarzone/45/index.m3u8?token=3216c570394400d71f771603f9d8cb57c9002107-bf6871374245a4dcee7965a0db3e0ec0-1663148172-1663137372
 
 
@@ -178,12 +182,13 @@ http://10.28.28.2:8080/roarzone/60/index.m3u8?token=2da04c9f7235abd99749f9040a82
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jfhX3Vb/MTV-Emblem.png" group-title="Music" , MTV
 http://10.28.28.2:8080/roarzone/46/index.m3u8?token=ac941154151b63c420e8bb1c5df27d368d9effa0-1bb2c63825cf4e6680bf8959cf953fcc-1663149008-1663138208
 
-#EXTINF:-1 tvg-name="SONY MAX " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" group-title="Indian" ,SONY MAX 
-http://10.28.28.2:8080/roarzone/77/index.m3u8?token=b66bc320260e6e350bc3cd1c5d666c1e44585b5d-5b83c372a3747f558548be7b1cb0b98b-1663149102-1663138302
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cF0vv6Y/sony.png" group-title="Indian" , SONY HD
 http://10.28.28.2:8080/roarzone/38/index.m3u8?token=611d5c7612568b03b4d201c33c4355ec5cf995ba-3e980756da9577e8a6f45b57253e5e08-1663149185-1663138385
+
+#EXTINF:-1 tvg-name="SONY MAX " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" group-title="Indian" ,SONY MAX 
+http://10.28.28.2:8080/roarzone/77/index.m3u8?token=b66bc320260e6e350bc3cd1c5d666c1e44585b5d-5b83c372a3747f558548be7b1cb0b98b-1663149102-1663138302
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Indian" , Colors HD
 http://10.28.28.2:8080/roarzone/68/index.m3u8?token=5a7f25e23b5c27f39ed283e8bec8df942cba14f2-67ba2e6e65d130f72a27f57a62375d98-1663149401-1663138601
