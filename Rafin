@@ -47,6 +47,12 @@ http://10.28.28.2:8080/roarzone/23/index.m3u8?token=7848033400401352e0123a246b61
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://10.28.28.2:8080/roarzone/51/index.m3u8?token=a8169a5586544fa13f4f097c6cc5fbd605f21bda-1b8d4e311531e0973aaaa687f04b1fd6-1663147306-1663136506
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg" group-title="Bangla News",DURONTO TV
+http://10.28.28.2:8080/roarzone/10/index.m3u8?token=58f8d1f10195cda61f9cbb4d9853669e9c4d0d83-4842061ef18819ec6412102a8b2ca3ac-1663148439-1663137639
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg" group-title="Bangla News",DURONTO TV
+http://10.28.28.2:8080/roarzone/79/index.m3u8?token=f6859492888e8c7b2b1c40a8a28e0ae6f66680ef-da8685846cbae5fc089cc7f7f9223327-1663148514-1663137714
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",JAMUNA TV
 http://10.28.28.2:8080/roarzone/13/index.m3u8?token=42fb7286aee3adea65e50f5672be31991662fe67-a66a881da7e497906cd032f836e5eef5-1663147339-1663136539
@@ -61,7 +67,11 @@ http://10.28.28.2:8080/roarzone/6/index.m3u8?token=5fddddd3b198dfa7c449df913388e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg",NEWS 24
 http://10.28.28.2:8080/roarzone/18/index.m3u8?token=749ad323b76be6c9b79b22f99a0bca76186f0461-eead0f4d7d38ac67b10098a7f1bb3b06-1663147397-1663136597
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="Bangla News",Independent
+http://10.28.28.2:8080/roarzone/12/index.m3u8?token=0673b497eb6554bc5ad36e433aea1aa276d12096-9ab36ef008405b820adab08e158d6364-1663148331-1663137531
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736" group-title="Bangla News",BTV
+http://10.28.28.2:8080/roarzone/53/index.m3u8?token=b5d71285de5027a8aca46f441e6b3e133f994574-d10c56010d6c53862b75ef45b5197fed-1663148398-1663137598
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/200px-Ekushey_Television_Logo.svg.png",EKUSHEY TELEVISION
 http://10.28.28.2:8080/roarzone/65/index.m3u8?token=b97f582fd6c835f2a930c3f38b1385242269f163-8539c8af88525dc9c6973bafc8b35057-1663147419-1663136619
@@ -156,7 +166,59 @@ http://10.28.28.2:8080/roarzone/41/index.m3u8?token=fe8c7cc8eedf6c2a70b1322263df
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/220px-STAR_Movies_logo.svg.png",Star Movies Select HD
 http://10.28.28.2:8080/roarzone/45/index.m3u8?token=3216c570394400d71f771603f9d8cb57c9002107-bf6871374245a4dcee7965a0db3e0ec0-1663148172-1663137372
 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Gaan Bangla
+http://10.28.28.2:8080/roarzone/58/index.m3u8?token=2c5260640bfa04b7f22e0108fc13d383c80d668d-2068d4c440db779735ea49c256eb3bc5-1663148780-1663137980
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" group-title="Others" , Zoom
+http://10.28.28.2:8080/roarzone/60/index.m3u8?token=2da04c9f7235abd99749f9040a821833c660248f-38748b27b9e2d4cba5e02931395c049b-1663148855-1663138055
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfhX3Vb/MTV-Emblem.png" group-title="Others" , MTV
+http://10.28.28.2:8080/roarzone/46/index.m3u8?token=ac941154151b63c420e8bb1c5df27d368d9effa0-1bb2c63825cf4e6680bf8959cf953fcc-1663149008-1663138208
+
+#EXTINF:-1 tvg-name="SONY MAX " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" group-title="",SONY MAX 
+http://10.28.28.2:8080/roarzone/77/index.m3u8?token=b66bc320260e6e350bc3cd1c5d666c1e44585b5d-5b83c372a3747f558548be7b1cb0b98b-1663149102-1663138302
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD
+http://10.28.28.2:8080/roarzone/38/index.m3u8?token=611d5c7612568b03b4d201c33c4355ec5cf995ba-3e980756da9577e8a6f45b57253e5e08-1663149185-1663138385
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" , Colors HD
+http://10.28.28.2:8080/roarzone/68/index.m3u8?token=5a7f25e23b5c27f39ed283e8bec8df942cba14f2-67ba2e6e65d130f72a27f57a62375d98-1663149401-1663138601
+
+#EXTINF:-1 tvg-logo="https://static1.wikia.nocookie.net/__cb20110928224037/logopedia/images/f/f0/Star_Gold_2011.png" , Star Gold
+http://10.28.28.2:8080/roarzone/75/index.m3u8?token=f9aeebaf5b210490e33a14cf61316dc7eb7817d9-fe2f455a2cc56716e46eaa7d716b0e16-1663149476-1663138676
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus
+http://10.28.28.2:8080/roarzone/67/index.m3u8?token=11818eaabfaf8c40b44d44a2eb928c1898d588ce-60f8afd5fc08c026c3b47fd87231179c-1663149584-1663138784
+
+
+#EXTINF:-1 tvg-logo="https://tv.releasemyad.com/images/logo/20151222110940sab_tv.png" , Sony Saab
+http://10.28.28.2:8080/roarzone/36/index.m3u8?token=d698ed2ee363d088c5ad17f716a79c23969073e4-db701b393dbf7382612fca9e30863356-1663149701-1663138901
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
+http://10.28.28.2:8080/roarzone/76/index.m3u8?token=0f4514f4027f03c4cb2ee5703276ac999210e9e1-64e3b8be8199b377056e31a86c9fba95-1663149746-1663138946
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD 
+http://10.28.28.2:8080/roarzone/40/index.m3u8?token=88ac67e33f4da48c886982438e90f3857bb5bd43-83e60842fa48d4009c70e10d61e67a96-1663149775-1663138975
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9s9knJw/andtv.png" , &TV TV HD 
+http://10.28.28.2:8080/roarzone/74/index.m3u8?token=349c9a4b500ec229daddc929ba17b5f4a640e880-fe04a76d6026840e687e054d6097cc9d-1663149803-1663139003
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJG2pwx/andpic.png" , & Picture HD 
+http://10.28.28.2:8080/roarzone/100/index.m3u8?token=bd8b267524509c85c9a5123ae07fdc12dd5f256e-214e7767c4e49176031c3a6e836b38cf-1663149926-1663139126
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
 http://10.28.28.2:8080/roarzone/44/index.m3u8?token=052616f33b4e2a467fa980f51be6382274bffada-e95bcdc2bae4444b6a21a6b9d1543432-1663148107-1663137307
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Discovery Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Discovery Bangla
+http://10.28.28.2:8080/roarzone/43/index.m3u8?token=b1888a89bfea84e20d08ed9400d6a17a82a3ae41-7574abdcb942ec5b4b3f902577556e1e-1663148616-1663137816
+
+#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAT GEO
+http://10.28.28.2:8080/roarzone/35/index.m3u8?token=fa32d6d6b3f3e261bd3501476fc5828f8382d04b-54148d606e38f563406993df04aa4443-1663148673-1663137873
 
 
