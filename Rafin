@@ -53,19 +53,19 @@ http://10.28.28.2:8080/roarzone/10/index.m3u8?token=58f8d1f10195cda61f9cbb4d9853
 http://10.28.28.2:8080/roarzone/79/index.m3u8?token=f6859492888e8c7b2b1c40a8a28e0ae6f66680ef-da8685846cbae5fc089cc7f7f9223327-1663148514-1663137714
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",JAMUNA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangla News" ,JAMUNA TV
 http://10.28.28.2:8080/roarzone/13/index.m3u8?token=42fb7286aee3adea65e50f5672be31991662fe67-a66a881da7e497906cd032f836e5eef5-1663147339-1663136539
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png",Ekattor
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" group-title="Bangla News",Ekattor
 http://10.28.28.2:8080/roarzone/11/index.m3u8?token=f665c65ada114068fbc983a7ac774591635eafde-d44932bd214b7656f77e2af30b5b9a58-1663147638-1663136838
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SOMOY NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla News" ,SOMOY NEWS
 http://10.28.28.2:8080/roarzone/17/index.m3u8?token=b7b0d3e042ff244f8e3f4f05b21b301ecbbaa25c-0a7ace75bf2597bae6e8b0c7b7803963-1663147362-1663136562
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png",CHANNEL I
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="Bangla News" ,CHANNEL I
 http://10.28.28.2:8080/roarzone/6/index.m3u8?token=5fddddd3b198dfa7c449df913388ebba71fe1653-b535b4ec03e68c944e1ca1a9fe4061cb-1663147377-1663136577
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg",NEWS 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangla News" ,NEWS 24
 http://10.28.28.2:8080/roarzone/18/index.m3u8?token=749ad323b76be6c9b79b22f99a0bca76186f0461-eead0f4d7d38ac67b10098a7f1bb3b06-1663147397-1663136597
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="Bangla News",Independent
