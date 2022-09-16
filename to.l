@@ -4,7 +4,7 @@ https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sports_live_01_720&us
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_511945001643008894.png" group-title="Live",Toffee Live 2
 https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sports_live_02_720&user=ec2ecbd2dcb21b4340ae9704d00007fe
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="HD",Sony Ten 1
-https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten1_hd_720&user=ec2ecbd2dcb21b4340ae9704d00007fe
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten1_hd_720&user=iao69m54thodp1r3ab6v3lrq25
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/115x115/mobile_logo_995268001567842888.png" group-title="HD",Sony Ten 2
 https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten2_hd_720&user=d7ab3df0441020890b5655d25e64165e
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="HD",Sony Ten 3
