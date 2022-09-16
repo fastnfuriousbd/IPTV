@@ -33,15 +33,18 @@ http://10.28.28.2:8080/roarzone/21/index.m3u8?token=c3eb479df85f8d76494e24d0179e
 http://10.28.28.2:8080/roarzone/22/index.m3u8?token=9ab4474a7f0408b8a6aee45e1e4dfd2ff3b8ae72-c674df75dc32b8a0b503a86ece7f77e7-1662913603-1662902803
 
 
+#EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony Six
+http://10.28.28.2:8080/roarzone/24/index.m3u8?token=393a8b4cbbcfd270ba6299b948d9fa0038e67fef-ba64c6d051bb73a57e56825f6956d5e6-1663147233-1663136433
+
+
+EXTINF:-1 tvg-name="Sony ESPN" tvg-logo="https://i.ibb.co/KrhjWX7/Sony-ESPN.png" group-title="Sports",Sony ESPN
+http://10.28.28.2:8080/roarzone/23/index.m3u8?token=7848033400401352e0123a246b6176c89428b6de-0531ffd17e4efc2e0c56484b8775576b-1662913509-1662902709
+
+
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/vdhYgt8/Ptv-Sports-Latest-Frequency-On-Paksat-38-E-2016.png" group-title="Sports",PTV Sports
 http://10.28.28.2:8080/roarzone/73/index.m3u8?token=903ceef6997b35fc276037418fe56e941b1e3018-c2ccd872fd09a3fbc500462863e8b1fd-1663152104-1663141304
 
 
-#EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony Six
-http://10.28.28.2:8080/roarzone/24/index.m3u8?token=393a8b4cbbcfd270ba6299b948d9fa0038e67fef-ba64c6d051bb73a57e56825f6956d5e6-1663147233-1663136433
-
-EXTINF:-1 tvg-name="Sony ESPN" tvg-logo="https://i.ibb.co/xFfzXgG/Logo-ESPN-HD-By-Bauti.png" group-title="Sports",Sony ESPN
-http://10.28.28.2:8080/roarzone/23/index.m3u8?token=7848033400401352e0123a246b6176c89428b6de-0531ffd17e4efc2e0c56484b8775576b-1662913509-1662902709
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
 http://10.28.28.2:8080/roarzone/51/index.m3u8?token=a8169a5586544fa13f4f097c6cc5fbd605f21bda-1b8d4e311531e0973aaaa687f04b1fd6-1663147306-1663136506
