@@ -40,7 +40,7 @@ http://10.28.28.2:8080/roarzone/73/index.m3u8?token=903ceef6997b35fc276037418fe5
 #EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony Six
 http://10.28.28.2:8080/roarzone/24/index.m3u8?token=393a8b4cbbcfd270ba6299b948d9fa0038e67fef-ba64c6d051bb73a57e56825f6956d5e6-1663147233-1663136433
 
-EXTINF:-1 tvg-name="Sony ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony ESPN
+EXTINF:-1 tvg-name="Sony ESPN" tvg-logo="https://i.ibb.co/xFfzXgG/Logo-ESPN-HD-By-Bauti.png" group-title="Sports",Sony ESPN
 http://10.28.28.2:8080/roarzone/23/index.m3u8?token=7848033400401352e0123a246b6176c89428b6de-0531ffd17e4efc2e0c56484b8775576b-1662913509-1662902709
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
