@@ -251,6 +251,50 @@ http://10.28.28.2:8080/roarzone/35/index.m3u8?token=fa32d6d6b3f3e261bd3501476fc5
 
 
 
+#EXTINF:-1,Star Sports 1
+http://stream.amrbd.com:8082/Star-Sports-1/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://stream.amrbd.com:8082/Star-Sports-2/index.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports Select 2
+http://stream.amrbd.com:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 1
+http://stream.amrbd.com:8082/Ten1/index.m3u8
+#EXTINF:-1,Sony Ten 2
+http://stream.amrbd.com:8082/Ten2/index.m3u8
+#EXTINF:-1,Sony Ten 3
+http://stream.amrbd.com:8082/Ten3/index.m3u8
+#EXTINF:-1,Sony Six
+http://stream.amrbd.com:8082/SonySix/index.m3u8
+#EXTINF:-1,Ten Sports PK
+http://stream.amrbd.com:8082/Ten-Sports/index.m3u8
+#EXTINF:-1,Ptv Sports
+http://stream.amrbd.com:8082/PTV-Sports/index.m3u8
+#EXTINF:-1,AD Sports 1
+http://stream.amrbd.com:8082/Adsports1/index.m3u8
+#EXTINF:-1,AD Sports 2
+http://stream.amrbd.com:8082/Adsports2/index.m3u8
+#EXTINF:-1,T Sports
+http://stream.amrbd.com:8082/T-Sports/index.m3u8
+#EXTINF:-1,Gazi TV
+http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTM3U
 #EXTINF:-1,(CH-01) Comedy Central
