@@ -251,141 +251,35 @@ http://10.28.28.2:8080/roarzone/35/index.m3u8?token=fa32d6d6b3f3e261bd3501476fc5
 
 
 
-#EXTINF:-1,Star Sports 1
-http://stream.amrbd.com:8082/Star-Sports-1/index.m3u8
-#EXTINF:-1,Star Sports 2
-http://stream.amrbd.com:8082/Star-Sports-2/index.m3u8
-#EXTINF:-1,Star Sports Select 1
-http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports Select 2
-http://stream.amrbd.com:8082/Star-Select-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 1
-http://stream.amrbd.com:8082/Ten1/index.m3u8
-#EXTINF:-1,Sony Ten 2
-http://stream.amrbd.com:8082/Ten2/index.m3u8
-#EXTINF:-1,Sony Ten 3
-http://stream.amrbd.com:8082/Ten3/index.m3u8
-#EXTINF:-1,Sony Six
-http://stream.amrbd.com:8082/SonySix/index.m3u8
-#EXTINF:-1,Ten Sports PK
-http://stream.amrbd.com:8082/Ten-Sports/index.m3u8
-#EXTINF:-1,Ptv Sports
-http://stream.amrbd.com:8082/PTV-Sports/index.m3u8
-#EXTINF:-1,AD Sports 1
-http://stream.amrbd.com:8082/Adsports1/index.m3u8
-#EXTINF:-1,AD Sports 2
-http://stream.amrbd.com:8082/Adsports2/index.m3u8
-#EXTINF:-1,T Sports
-http://stream.amrbd.com:8082/T-Sports/index.m3u8
-#EXTINF:-1,Gazi TV
-http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1,(CH-01) Comedy Central
-http://116.204.149.11:8000/play/a01g/index.m3u8
-#EXTINF:-1,(CH-02) AXN Spin
-http://116.204.149.11:8000/play/a002/index.m3u8
-#EXTINF:-1,(CH-03) AXN Movies
-http://116.204.149.11:8000/play/a003/index.m3u8
-#EXTINF:-1,(CH-04) AXN White
-http://116.204.149.11:8000/play/a004/index.m3u8
-#EXTINF:-1,(CH-05) BT Sports 1
-http://116.204.149.11:8000/play/a00s/index.m3u8
-#EXTINF:-1,(CH-06) BT Sports 2
-http://116.204.149.11:8000/play/a006/index.m3u8
-#EXTINF:-1,(CH-07) Boomerang
-http://116.204.149.11:8000/play/a007/index.m3u8
-#EXTINF:-1,(CH-08) HBO
-http://116.204.149.11:8000/play/a008/index.m3u8
-#EXTINF:-1,(CH-09) Star Movies
-http://116.204.149.11:8000/play/a009/index.m3u8
-#EXTINF:-1,(CH-10) Star Movies Select
-http://116.204.149.11:8000/play/a00a/index.m3u8
-#EXTINF:-1,(CH-11) FOX
-http://116.204.149.11:8000/play/a00b/index.m3u8
-#EXTINF:-1,(CH-12) HGTV
-http://116.204.149.11:8000/play/a00c/index.m3u8
-#EXTINF:-1,(CH-13) Hollywood
-http://116.204.149.11:8000/play/a00d/index.m3u8
-#EXTINF:-1,(CH-14) FOX News
-http://116.204.149.11:8000/play/a01n/index.m3u8
-#EXTINF:-1,(CH-15) beIN Movies 1
-http://116.204.149.11:8000/play/a00f/index.m3u8
-#EXTINF:-1,(CH-16) beIN Movies 2
-http://116.204.149.11:8000/play/a00g/index.m3u8
-#EXTINF:-1,(CH-17) EuroSport 1
-http://116.204.149.11:8000/play/a00h/index.m3u8
-#EXTINF:-1,(CH-18) Syfy
-http://116.204.149.11:8000/play/a00i/index.m3u8
-#EXTINF:-1,(CH-19) SuperSport LaLiga
-http://116.204.149.11:8000/play/a00j/index.m3u8
-#EXTINF:-1,(CH-20) SuperSport Premier League
-http://116.204.149.11:8000/play/a00k/index.m3u8
-#EXTINF:-1,(CH-21) NASA Channel
-http://116.204.149.11:8000/play/a012/index.m3u8
-#EXTINF:-1,(CH-22) TENNIS
-http://116.204.149.11:8000/play/a00m/index.m3u8
-#EXTINF:-1,(CH-23) beIN Sports 1
-http://116.204.149.11:8000/play/a00n/index.m3u8
-#EXTINF:-1,(CH-24) beIN Sports 2
-http://116.204.149.11:8000/play/a00o/index.m3u8
-#EXTINF:-1,(CH-25) ESPN
-http://116.204.149.11:8000/play/a00p/index.m3u8
-#EXTINF:-1,(CH-26) ESPN 2
-http://116.204.149.11:8000/play/a00q/index.m3u8
-#EXTINF:-1,(CH-27) TLC
-http://116.204.149.11:8000/play/a00r/index.m3u8
-#EXTINF:-1,(CH-28) Travel
-http://116.204.149.11:8000/play/a005/index.m3u8
-#EXTINF:-1,(CH-29) Animal Planet
-http://116.204.149.11:8000/play/a00t/index.m3u8
-#EXTINF:-1,(CH-30) Nat Geo Wild
-http://116.204.149.11:8000/play/a00u/index.m3u8
-#EXTINF:-1,(CH-31) National Geographic
-http://116.204.149.11:8000/play/a00v/index.m3u8
-#EXTINF:-1,(CH-32) Discovery
-http://116.204.149.11:8000/play/a00w/index.m3u8
-#EXTINF:-1,(CH-33) Disney Channel
-http://116.204.149.11:8000/play/a00y/index.m3u8
-#EXTINF:-1,(CH-34) Disney Junior
-http://116.204.149.11:8000/play/a00x/index.m3u8
-#EXTINF:-1,(CH-35) CNBC News
-http://116.204.149.11:8000/play/a01m/index.m3u8
-#EXTINF:-1,(CH-36) History
-http://116.204.149.11:8000/play/a010/index.m3u8
-#EXTINF:-1,(CH-37) History 2
-http://116.204.149.11:8000/play/a01o/index.m3u8
-#EXTINF:-1,(CH-38) MotorVision
-http://116.204.149.11:8000/play/a011/index.m3u8
-#EXTINF:-1,(CH-39) NBC Golf
-http://116.204.149.11:8000/play/a01h/index.m3u8
-#EXTINF:-1,(CH-40) MTV Live
-http://116.204.149.11:8000/play/a001/index.m3u8
-#EXTINF:-1,(CH-41) MTV Classic
-http://116.204.149.11:8000/play/a01k/index.m3u8
-#EXTINF:-1,(CH-42) Sky Sports F1
-http://116.204.149.11:8000/play/a01l/index.m3u8
-#EXTINF:-1,(CH-43) Sky Sports Premier League
-http://116.204.149.11:8000/play/a00z/index.m3u8
-#EXTINF:-1,(CH-44) Sky Sports Main Event
-http://116.204.149.11:8000/play/a00e/index.m3u8
-#EXTINF:-1,(CH-45) Sky Sport Cricket
-http://116.204.149.11:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="beINSPORTS 1 HD+" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.pn" group-title="Sport",beINSports 1
+http://iptvtree.net:8080/ace2524d/15a571c413/100
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 2
+http://iptvtree.net:8080/ace2524d/15a571c413/101
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 3
+http://iptvtree.net:8080/ace2524d/15a571c413/102
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 4
+http://iptvtree.net:8080/ace2524d/15a571c413/103
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 5
+http://iptvtree.net:8080/ace2524d/15a571c413/104
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 6
+http://iptvtree.net:8080/ace2524d/15a571c413/105
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 7
+http://iptvtree.net:8080/ace2524d/15a571c413/106
+#EXTINF:-1 group-title="Sport",beINSports English 1
+http://iptvtree.net:8080/ace2524d/15a571c413/110
+#EXTINF:-1 group-title="Sport",beINSports English 2
+http://iptvtree.net:8080/ace2524d/15a571c413/111
+#EXTINF:-1 group-title="Sport",beINSports English 3
+http://iptvtree.net:8080/ace2524d/15a571c413/267769
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports Premium 1
+http://iptvtree.net:8080/ace2524d/15a571c413/109
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports Premium 2
+http://iptvtree.net:8080/ace2524d/15a571c413/280145
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports Premium 3
+http://iptvtree.net:8080/ace2524d/15a571c413/280249
+#EXTINF:-1 tvg-name="BeIN_Sport_XTRA_01" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",beIN Sports Xtra 1
+http://king-tv.online:8080/gisle@/FDPWGufCmY/267465.ts
+#EXTINF:-1 tvg-name="BeIN_Sport_XTRA_02" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",beIN Sports Xtra 2
+http://king-tv.online:8080/gisle@/FDPWGufCmY/238033.ts
 
 
