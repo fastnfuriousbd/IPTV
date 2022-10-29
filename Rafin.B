@@ -1,19 +1,15 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
-http://10.28.28.2:8080/roarzone/1/index.m3u8?token=abd592ef6dd7450854f0ff96887c6f85d725249a-3f5a58558bebff4ec8156a9de0a810ef-1662913192-1662902392
+http://10.28.28.2:8080/roarzone/1/index.m3u8?token=2e634155973f91e60043847c44c95f374a82a20b-65aad19e66d00a4fb91662a604e3ae7b-1667049494-1667038694
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
-http://223.29.212.14:8080/roarzone/1/index.m3u8?token=7e0bd7d446395a0b4616e10acbcaa0a2a2d3b743-e579d94e878d94b7aacf8d472e947326-1662281929-1662271129
 
 #EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",T SPORTS
-http://10.28.28.2:8080/roarzone/102/index.m3u8?token=ab4a6183f9dc204b196babc67d09597e669772a7-a7653313b2d4843e7dcb654a5707aa6a-1662913873-1662903073
+http://10.28.28.2:8080/roarzone/102/index.m3u8?token=7b94d7b3fb961c1ac1d9b28dc4a1bd5bcd4d0eff-64475ed1017100f4d13cd45c6215f9e9-1667049593-1667038793
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" ,Nagorik TV
-http://10.28.28.2:8080/roarzone/59/index.m3u8?token=2c1f880ae950708eedb68a7da2f8b11e28fab262-46813ed489bbb5ec45f5d67ee00f49e4-1662913757-1662902957
+http://10.28.28.2:8080/roarzone/59/tracks-v1a1/mono.m3u8?token=abdf7795fe1b923ef015a6469f357f82e28e6e01-ec26509fb592ec64518daf9d5dd5e752-1667049634-1667038834
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports 1 HD
-http://10.28.28.2:8080/roarzone/25/index.m3u8?token=437d372f09245cbe9a502be7b8a42d424e054150-bcad9e4a9dc39cfc4567593db2406f64-1662913840-1662903040
+http://10.28.28.2:8080/roarzone/25/tracks-v1a1/mono.m3u8?token=55ab53e1b50df3466113b66a54eb7013bac99972-219e85364331183b2fa1800b9dd9b113-1667049678-1667038878
 
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports Select 1 HD
 http://10.28.28.2:8080/roarzone/27/index.m3u8?token=96c5b4fd91900c72d056b078c43480e28c7cb550-fcf911cd618e79fd85ec694f5d8c5ebd-1662913469-1662902669
