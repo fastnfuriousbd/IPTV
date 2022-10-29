@@ -170,3 +170,249 @@ http://223.29.212.14:8080/roarzone/39/index.m3u8?token=b954eab738b2f082451c3a11b
 http://223.29.212.14:8080/roarzone/44/index.m3u8?token=a6090fbf92c772cc869e5efd8571e2a650e23ba2-a8d95aadbed06771fe2b9c30d1928daa-1662370538-1662359738
 
 
+
+
+
+#EXTINF:-1 tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="Sport",Champions TV 1
+http://pprotv.com:80/fahad70/fahad70/39556
+#EXTINF:-1 tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="Sport",Champions TV 2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+#EXTINF:-1 tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="Sport",Champions TV 3
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
+http://10.28.28.2:8080/roarzone/1/index.m3u8?token=2e634155973f91e60043847c44c95f374a82a20b-65aad19e66d00a4fb91662a604e3ae7b-1667049494-1667038694
+
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",T SPORTS
+http://10.28.28.2:8080/roarzone/102/index.m3u8?token=7b94d7b3fb961c1ac1d9b28dc4a1bd5bcd4d0eff-64475ed1017100f4d13cd45c6215f9e9-1667049593-1667038793
+
+#EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" ,Nagorik TV
+http://10.28.28.2:8080/roarzone/59/tracks-v1a1/mono.m3u8?token=abdf7795fe1b923ef015a6469f357f82e28e6e01-ec26509fb592ec64518daf9d5dd5e752-1667049634-1667038834
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports 1 HD
+http://10.28.28.2:8080/roarzone/25/tracks-v1a1/mono.m3u8?token=55ab53e1b50df3466113b66a54eb7013bac99972-219e85364331183b2fa1800b9dd9b113-1667049678-1667038878
+
+#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.ibb.co/BBm0vcP/Star-Sports-Select-1.jpg" group-title="Sports",Star Sports Select 1 HD
+http://10.28.28.2:8080/roarzone/27/index.m3u8?token=780f0f4c01048d881322ba6f70e75a4d7a71d8eb-6d30f5bb826b2099fa71473fab02955d-1667050199-1667039399
+
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://i.ibb.co/S7N3YWn/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
+http://10.28.28.2:8080/roarzone/28/index.m3u8?token=074375f068cca0610a5ac1157c06dc197c7037fb-1f0689f99a036913a547c7e9a7ab7ce0-1667050225-1667039425
+
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://www.indiantvinfo.com/media/2020/09/Sony-Ten-1-HD-Channel.png" group-title="Sports",Sony Ten 1
+http://10.28.28.2:8080/roarzone/20/index.m3u8?token=785217b5caa83338db55184a66c6530f4b95e1b3-672578d7658b6e8798e9d367deaffe62-1667050018-1667039218
+
+#EXTINF:-1 tvg-name="Sony Ten 2 " tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-logo-300x300.jpg" group-title="Sports",Sony Ten 2 
+http://10.28.28.2:8080/roarzone/21/index.m3u8?token=6ad19b59e34613bec66203b2be6d3879d8f85ec7-841ff4cc68b9c0b6bae968d1d5fbeb51-1667050049-1667039249
+
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20170818190243" group-title="Sports",Sony Ten 3
+http://10.28.28.2:8080/roarzone/22/index.m3u8?token=58e67ca652d7e69fbb7c92001b0fe6951351402c-c0c3e4e8700086a1d8f7925da3d5d481-1667050071-1667039271
+
+#EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/200px-Sony_six_logo.png" group-title="Sports",Sony Six
+http://10.28.28.2:8080/roarzone/24/index.m3u8?token=10614cf38c20d569f87654a69037663c208189f5-bc14f38892549c6c9542deff4a860ff1-1667049956-1667039156
+
+
+EXTINF:-1 tvg-name="Sony ESPN" tvg-logo="https://i.ibb.co/KrhjWX7/Sony-ESPN.png" group-title="Sports",Sony ESPN
+http://10.28.28.2:8080/roarzone/23/index.m3u8?token=b6036543948be7285d7b68140ca7653c45f55dc1-d9cf437767a5ecfbf9034225591b6f19-1667050110-1667039310
+
+
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.ibb.co/vdhYgt8/Ptv-Sports-Latest-Frequency-On-Paksat-38-E-2016.png" group-title="Sports",PTV Sports
+http://10.28.28.2:8080/roarzone/73/index.m3u8?token=0f300c6de4952e4752d1122cf0fd55f4b367152a-b834e9c204878e49d9bc02fa9a9798ff-1667050254-1667039454
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co/mqV2CL0/Maasranga-Television-Logo.jpg",MAASRANGA TV
+http://10.28.28.2:8080/roarzone/51/index.m3u8?token=a8169a5586544fa13f4f097c6cc5fbd605f21bda-1b8d4e311531e0973aaaa687f04b1fd6-1663147306-1663136506
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.ibb.co/7rx1bNz/Duronto.png" group-title="Kids",DURONTO TV
+http://10.28.28.2:8080/roarzone/10/index.m3u8?token=caf300bc73b3641d29b6a019e077de816f575365-7f9267b462fb03011726dfc7e40c4fdc-1667050360-1667039560
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHLJ9GG/54.jpg" group-title="Kids",Cartoon Network
+http://10.28.28.2:8080/roarzone/79/index.m3u8?token=96b1a0e75dab837e1ad3ff4a72487c541e983685-8b8a041b86d9b99b7b5bd3eb96f34fbe-1667050383-1667039583
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="Bangla News",Independent
+http://10.28.28.2:8080/roarzone/12/index.m3u8?token=192609f0b0519631654d715e5778c6040bb5d041-62185f7c8cf4c1893cdded5d0d82dd89-1667050420-1667039620
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangla News" ,JAMUNA TV
+http://10.28.28.2:8080/roarzone/13/index.m3u8?token=148d3ab1821e9e352ea9fe8004183e351fe8e2ee-b562c73745527df1299f96469f5cd937-1667050446-1667039646
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" group-title="Bangla News",Ekattor
+http://10.28.28.2:8080/roarzone/11/index.m3u8?token=bb4f9f910e935a6c6edf083cc7d67ef8f6aa4f7a-9e874405d172cad22d6ef8a392bb4620-1667050478-1667039678
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla News" ,SOMOY NEWS
+http://10.28.28.2:8080/roarzone/17/index.m3u8?token=d8337eae4de076d5e11ccdf2948cbf36a13ac664-e08de8115321b81bf984434c77c6fb31-1667050508-1667039708
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangla News",CHANNEL 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla News",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangla News",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nandan Tv" tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA" group-title="Bangla News",Nandan Tv
+http://nandansyst.com/hls/nandan.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="38.Doyel TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",38.Doyel TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43.MAQ TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",43.MAQ TV
+http://str24.l9574.com/517.stream/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52.Voice TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",52.Voice TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6.Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",6.Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1.Anando TV" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladesh",1.Anando TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="45.Movie Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",45.Movie Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52.Voice TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="Bangladesh",52.Voice TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6.Bangla TV" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladesh",6.Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL S (4)
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel-S (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel-S (3)
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",ITV IPTV [BD]
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAT GEO
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="BrightWall Technology (Channel)",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="BrightWall Technology (Channel)",CGTV Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="BrightWall Technology (Channel)",RTP TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",ABC Radio(89.2)
+http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Wadio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Bangla Wadio
+http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big 95 FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Big 95 FM
+https://radioindia.net/radio/sc-bb/icecast.audio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Big FM
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Punjabi Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colours FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Colours FM
+http://45.64.135.88:8000/stream1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Dhaka FM
+http://118.179.219.244:8000/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Dhaka FM (90.4)
+http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FnF.FM Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",FnF.FM Bangla
+http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harman Radio Australia" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Harman Radio Australia
+http://harmanradio.net:8000/main_48.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jagoo FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Jagoo FM
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Non Stop Hindi Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio
+https://www.radiomirchi.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio ABC" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio ABC
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Apna" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Apna
+http://ca.rcast.net:8048/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio BollyFm" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio BollyFm
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Foorti (88.0)
+http://119.148.23.88:1021/;?@IPTVSoltuion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Hindi International" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ishara" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Ishara
+http://nickerie.webhop.net:8000/;stream.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - 90s Hit Songs" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Mirchi - 90s Hit Songs
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Club Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Mirchi - Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Devraag" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Mirchi - Devraag
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Filmy Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Mirchi - Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sadhin" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Radio Sadhin
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Chillout / Ambient" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Radio Schizoid - Chillout / Ambient
+http://94.130.113.214:8000/chill
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Dub Techno" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Radio Schizoid - Dub Techno
+http://94.130.113.214:8000/dubtechno
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Radio Schizoid - Progressive Psychedelic Trance
+http://94.130.113.214:8000/prog
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Radio Today
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="BrightWall Technology (FM Radio)",Radio Today(89.6)
+http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",SaRaHa
+http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Suno FM 102.
+http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+
