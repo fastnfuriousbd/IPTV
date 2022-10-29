@@ -89,21 +89,21 @@ http://nandansyst.com/hls/nandan.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="38.Doyel TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",38.Doyel TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="38.Doyel TV" tvg-logo="" group-title="Bangladesh",38.Doyel TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43.MAQ TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",43.MAQ TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43.MAQ TV" tvg-logo="" group-title="Bangladesh",43.MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52.Voice TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",52.Voice TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52.Voice TV" tvg-logo="" group-title="Bangladesh",52.Voice TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6.Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",6.Bangla TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6.Bangla TV" tvg-logo="" group-title="Bangladesh",6.Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 
@@ -112,7 +112,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="45.Movie Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",45.Movie Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="45.Movie Bangla" tvg-logo="" group-title="Bangladesh",45.Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 
@@ -131,18 +131,18 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL S (4)
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (4)" tvg-logo="" group-title="Bangladesh",CHANNEL S (4)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel-S (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel-S (3)
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel-S (3)" tvg-logo="" group-title="Bangladesh",Channel-S (3)
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 
-#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAT GEO
+#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="" group-title="Bangladesh",NAT GEO
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
@@ -189,21 +189,20 @@ http://nickerie.webhop.net:8000/;stream.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi" ,Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Chillout / Ambient" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Schizoid - Chillout / Ambient
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Chillout / Ambient" tvg-logo="" group-title=“FM Radio",Radio Schizoid - Chillout / Ambient
 http://94.130.113.214:8000/chill
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Dub Techno" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Schizoid - Dub Techno
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Dub Techno" tvg-logo="" group-title=“FM Radio",Radio Schizoid - Dub Techno
 http://94.130.113.214:8000/dubtechno
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Schizoid - Progressive Psychedelic Trance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="" group-title=“FM Radio",Radio Schizoid - Progressive Psychedelic Trance
 http://94.130.113.214:8000/prog
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Today
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="" group-title=“FM Radio",Radio Today
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title=“FM Radio",Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",SaRaHa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="" group-title=“FM Radio",SaRaHa
 http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Suno FM 102.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="" group-title=“FM Radio",Suno FM 102.
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Ujala Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="" group-title=“FM Radio",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
-
