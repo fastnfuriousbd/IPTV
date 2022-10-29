@@ -276,21 +276,21 @@ http://nandansyst.com/hls/nandan.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="38.Doyel TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",38.Doyel TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="38.Doyel TV" tvg-logo="" group-title="Bangladesh",38.Doyel TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43.MAQ TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",43.MAQ TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43.MAQ TV" tvg-logo="" group-title="Bangladesh",43.MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52.Voice TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",52.Voice TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52.Voice TV" tvg-logo="" group-title="Bangladesh",52.Voice TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6.Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",6.Bangla TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6.Bangla TV" tvg-logo="" group-title="Bangladesh",6.Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 
@@ -299,7 +299,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="45.Movie Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",45.Movie Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="45.Movie Bangla" tvg-logo="" group-title="Bangladesh",45.Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 
@@ -318,31 +318,31 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL S (4)
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (4)" tvg-logo="" group-title="Bangladesh",CHANNEL S (4)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel-S (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel-S (3)
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel-S (3)" tvg-logo="" group-title="Bangladesh",Channel-S (3)
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 
-#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAT GEO
+#EXTINF:-1 tvg-id="New EPG" tvg-name="NAT GEO" tvg-logo="" group-title="Bangladesh",NAT GEO
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="BrightWall Technology (Channel)",Al Jazeera
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="BrightWall Technology (Channel)",CGTV Documentary
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="",CGTV Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="BrightWall Technology (Channel)",RTP TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="",RTP TV
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
 
 
