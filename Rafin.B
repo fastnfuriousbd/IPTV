@@ -376,21 +376,21 @@ http://nickerie.webhop.net:8000/;stream.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi" ,Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Chillout / Ambient" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Schizoid - Chillout / Ambient
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Chillout / Ambient" tvg-logo="" group-title=“FM Radio",Radio Schizoid - Chillout / Ambient
 http://94.130.113.214:8000/chill
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Dub Techno" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Schizoid - Dub Techno
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Dub Techno" tvg-logo="" group-title=“FM Radio",Radio Schizoid - Dub Techno
 http://94.130.113.214:8000/dubtechno
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Schizoid - Progressive Psychedelic Trance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="" group-title=“FM Radio",Radio Schizoid - Progressive Psychedelic Trance
 http://94.130.113.214:8000/prog
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Radio Today
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="" group-title=“FM Radio",Radio Today
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title=“FM Radio",Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",SaRaHa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="" group-title=“FM Radio",SaRaHa
 http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Suno FM 102.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="" group-title=“FM Radio",Suno FM 102.
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title=“FM Radio",Ujala Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="" group-title=“FM Radio",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
 
