@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
-http://10.28.28.2:8080/roarzone/1/tracks-v1a1/mono.m3u8?token=78d01a9056e23d61b9c179d3806f1e3677abedde-babf6a7681c1ed51bdcdff1dfdcbbe1a-1667109448-1667098648
+http://10.28.28.2:8080/roarzone/1/index.m3u8?token=90d76e1a0a09b6e376ae1570a222b108d6122db9-31b83da1b3383865cb96284f54be5f3f-1667120498-1667109698
 
 
 #EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",T SPORTS
