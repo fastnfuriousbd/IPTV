@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
-http://10.28.28.2:8080/roarzone/1/index.m3u8?token=2e634155973f91e60043847c44c95f374a82a20b-65aad19e66d00a4fb91662a604e3ae7b-1667049494-1667038694
+http://10.28.28.2:8080/roarzone/1/tracks-v1a1/mono.m3u8?token=78d01a9056e23d61b9c179d3806f1e3677abedde-babf6a7681c1ed51bdcdff1dfdcbbe1a-1667109448-1667098648
 
 
 #EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",T SPORTS
-http://10.28.28.2:8080/roarzone/102/index.m3u8?token=7b94d7b3fb961c1ac1d9b28dc4a1bd5bcd4d0eff-64475ed1017100f4d13cd45c6215f9e9-1667049593-1667038793
+http://10.28.28.2:8080/roarzone/102/tracks-v1a1/mono.m3u8?token=46efa29c559ab2eb0d3b59149a4e7e2dfa23d384-d11f72abd3d2ff8d5d1de52a02b8d4e8-1667109510-1667098710
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" ,Nagorik TV
 http://10.28.28.2:8080/roarzone/59/tracks-v1a1/mono.m3u8?token=abdf7795fe1b923ef015a6469f357f82e28e6e01-ec26509fb592ec64518daf9d5dd5e752-1667049634-1667038834
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/GxSmPCF/STAR-Sports-1-logo.png" group-title="Sports",Star Sports 1 HD
-http://10.28.28.2:8080/roarzone/25/tracks-v1a1/mono.m3u8?token=55ab53e1b50df3466113b66a54eb7013bac99972-219e85364331183b2fa1800b9dd9b113-1667049678-1667038878
+http://10.28.28.2:8080/roarzone/1/tracks-v1a1/mono.m3u8?token=ac661e88921afbfeb58c22884b33ba96dfaacbe8-d1cd0e62445532246645be0e995b036c-1667109559-1667098759
 
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.ibb.co/BBm0vcP/Star-Sports-Select-1.jpg" group-title="Sports",Star Sports Select 1 HD
 http://10.28.28.2:8080/roarzone/27/index.m3u8?token=780f0f4c01048d881322ba6f70e75a4d7a71d8eb-6d30f5bb826b2099fa71473fab02955d-1667050199-1667039399
