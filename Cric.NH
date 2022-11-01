@@ -1,0 +1,135 @@
+#EXTM3U
+
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Mastiii/Mastiii_800.m3u8
+http://jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_TAB.m3u8
+http://hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Plus_HD.m3u8
+http://hotstar.live.cdn.jio.com/Life_OK_HD/Life_OK_HD.m3u8
+http://jiotv.live.cdn.jio.com/Zindagi/Zindagi_TAB.m3u8
+http://hotstar.live.cdn.jio.com/Channel_V/Channel_V.m3u8
+http://jiotv.live.cdn.jio.com/DD_National/DD_National_TAB.m3u8
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Neo_Prime/Neo_Prime_800.m3u8
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_HD_1/Star_Sports_HD_1.m3u8
+http://hotstar.live.cdn.jio.com/Star_Sports_HD_2/Star_Sports_HD_2.m3u8
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_3/Star_Sports_3.m3u8
+http://hotstar.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1.m3u8
+http://hotstar.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2.m3u8
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_1200.m3u8
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8
+http://jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_TAB.m3u8
+http://jiotv.live.cdn.jio.com/Discovery_Channel_Hindi/Discovery_Channel_Hindi_TAB.m3u8
+http://jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science_TAB.m3u8
+http://jiotv.live.cdn.jio.com/Discovery_Turbo/Discovery_Turbo_TAB.m3u8
+
+#EXTM3U 
+#EXTINF:3,Ary News 
+http://ams2.jadoo.tv/ECpull/arynews.stream/playlist.m3u8 
+#EXTINF:3,Ary Digital 
+http://ams2.jadoo.tv/ECpull/arydigital.stream/playlist.m3u8 
+#EXTINF:3,Ary QTV 
+http://akamaihd.wowzahls28.yuppcdn.net/live/aryqtv/chunklist.m3u8 
+#EXTINF:3,Geo News 
+http://ph2.jadootv.net/jdorigin/feed0050.stream/playlist.m3u8 
+#EXTINF:3,Geo TV 
+http://ph2.jadootv.net/jdorigin/feed0051.stream/playlist.m3u8 
+#EXTINF:3,Aaj News 
+http://ams2.jadoo.tv/ECpull/aajnews.stream/playlist.m3u8 
+#EXTINF:3,Star Plus 
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:starplus.smil/chunklist.m3u8 
+#EXTINF:3,Zee Cinema 
+http://stream.zeefamily.tv/zeecinemauk/index.m3u8 
+#EXTINF:3,92 News 
+http://95.211.187.210:1935/live/ngrp:92news_all/playlist.m3u8 
+#EXTINF:3,Ten Cricket 
+http://stream.zeefamily.tv/tencrick/index.m3u8 
+#EXTINF:3,Ten Sports 
+http://80.243.182.106:8080/TeNSpoRts1/TeNSpoRts1/index.m3u8 
+#EXTINF:3,Sky Sports 1 
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/playlist.m3u8 
+#EXTINF:3,Sky Sports 3 
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/playlist.m3u8 
+#EXTINF:3,Music Now 
+http://ams2.jadoo.tv/ECpull/mnow.stream/playlist.m3u8 
+#EXTINF:3,Now Movies 
+http://ams2.jadoo.tv/ECpull/enow.stream/playlist.m3u8 
+#EXTINF:3,Zee Bollywood HD 
+http://stream.zeefamily.tv/zeebollywood/index.m3u8 
+#EXTINF:3,Express News 
+http://ams2.jadoo.tv/ECpull/expressnews.stream/playlist.m3u8 
+#EXTINF:3,AND TV HD 
+http://stream.zeefamily.tv/andtvhd/index.m3u8 
+#EXTINF:3,Zee World 
+http://stream.zeefamily.tv/zeeworld/index.m3u8 
+#EXTINF:3,Zee Smile 
+http://stream.zeefamily.tv/zeesmile/index.m3u8 
+#EXTINF:3,Zee Classic 
+http://stream.zeefamily.tv/zeeclassic/index.m3u8 
+#EXTINF:3,Express Entertainment 
+http://ams2.jadoo.tv/ECpull/expressent.stream/playlist.m3u8 
+#EXTINF:3,Dawn News 
+http://ams2.jadoo.tv/ECpull/dawn.stream/playlist.m3u8 
+
+#EXTINF:-1,IN-zee_TV HD
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1355.ts
+#EXTINF:-1,IN-Zee_Cinema
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/553.ts
+#EXTINF:-1,IN-Zee_Alwan
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/145.ts
+#EXTINF:-1,IN-ZEE-AFLAM
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/135.ts
+#EXTINF:-1,IN-B4U_PLUS
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/228.ts
+#EXTINF:-1,IN-B4U_Music
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/227.ts
+#EXTINF:-1,IN-B4U_Movies
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/226.ts
+#EXTINF:-1,IN-B4U_Aflam
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/138.ts
+#EXTINF:-1,IN-Star Gold
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/2048.ts
+#EXTINF:-1,IN-Star Plus
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/554.ts
+#EXTINF:-1,In-Peppers TV
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1345.ts
+#EXTINF:-1,IN-Life OK HD
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/2152.ts
+#EXTINF:-1,IN-Venus tv
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1542.ts
+#EXTINF:-1,In-UMP Movies
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1242.ts
+#EXTINF:-1,IN-DMP plus TV
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1255.ts
+#EXTINF:-1,IN-TV one
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1241.ts
+#EXTINF:-1,IN-Bangla_TV
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/2147.ts
+#EXTINF:-1,IN-9xjalwa
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/137.ts
+#EXTINF:-1,In-Nick sonic
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/225.ts
+#EXTINF:-1,IN-ETT TV
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1346.ts
+#EXTINF:-1,IN-Sun music
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1030.ts
+#EXTINF:-1,IN-Star_Maza
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1026.ts
+#EXTINF:-1,IN-star_plus
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/660.ts
+#EXTINF:-1,IN-news X
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1035.ts
+#EXTINF:-1,IN-IBN
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1354.ts
+#EXTINF:-1,PK-PTV-Global
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/778.ts
+#EXTINF:-1,PK-Geo TV
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1352.ts
+#EXTINF:-1,Pk-ptv world
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1350.ts
+#EXTINF:-1,Pk-PTV News
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1348.ts
+#EXTINF:-1,PK-Peace_TV Urdu
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1339.ts
+#EXTINF:-1,Pk-sama_alive
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1347.ts
+#EXTINF:-1,Pk-islam_tv
+http://electro-tunis.biz:8000/live/jjjawher1074/jjjawher1074/1349.ts
