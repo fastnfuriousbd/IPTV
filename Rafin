@@ -1,11 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg", FREE CSIPTV join us on telegram @csiptvfree
-https://od.lk/s/ODRfNjMzNzUyMTBf/ca%20%28852%20%C3%97%20480%20px%29.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV S2
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/07/25/akash%20Aath.jpg" group-title="Bangla", Akash Aath
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Channel 24
