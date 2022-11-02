@@ -1,6 +1,36 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 group-title="Amrbd",Gazi TV
+http://172.16.50.2:8082/Gazi-Tv/index.m3u8?token=e604840716221747a6dcdd4bdc841d96923373c3-ca7e67edc7fbf4c9bee436559fc41638-1667406014-1667395214
+
+#EXTINF:-1 group-title="Amrbd",PTV HD
+http://172.16.50.2:8082/PTV-Sports/index.m3u8?token=cf9bfa9b87fec014ca2856034b7f02c71f907e48-6bdae1deb4b845339185f9c206fd87eb-1667406125-1667395325
+
+#EXTINF:-1 group-title="Amrbd",TEN SPORTS HD
+http://172.16.50.2:8082/Ten-Sports/index.m3u8?token=9145f734544279bddf028b105826e53f7a3c5df9-f1eac1cf85d4006bf4d4120a38f3686c-1667406148-1667395348
+
+#EXTINF:-1 group-title="Amrbd",T Sports
+http://172.16.50.2:8082/T-Sports/index.m3u8?token=abffaa355e4f7724c9f735f3f0a73c392aad5abd-2d5cc44bdf7c1691ee5756447b791c62-1667406203-1667395403
+
+#EXTINF:-1 group-title="Amrbd",Sony Sports 1 HD
+http://172.16.50.2:8082/Ten1/index.m3u8?token=420e67b4c0b91ced311414729920a5d4b19d6363-df65caac80e34970dc7ab76a04238a12-1667406241-1667395441
+
+#EXTINF:-1 group-title="Amrbd",Star Sports 1 HD
+http://172.16.50.2:8082/Star-Sports-1/index.m3u8?token=3b1f692656177edea3bf5687c50fc9c64fdf7021-95aa206c79bf106e0e1d134a24e576ba-1667406348-1667395548
+
+#EXTINF:-1 group-title="Amrbd",Star Sports Select 1 HD
+http://172.16.50.2:8082/Star-Select-1/index.m3u8?token=d3696b3f937d063a53597bbd77be994274766a42-6c631d3d1dc7335d7e27f4c222671055-1667406397-1667395597
+
+#EXTINF:-1 group-title="Amrbd",Star Sports Select 2 HD
+http://172.16.50.2:8082/Star-Select-2/index.m3u8?token=351f38cab372ecbe9549b545a75279e2391cf2b4-1c6f6fdbab6a3cbbb67d10bcfb825109-1667406431-1667395631
+
+
+
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",STAR SPORTS 1HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",Star Sports 1-[2]
