@@ -43,8 +43,6 @@ http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gazi TV Freecatv
 http://45.127.244.7:8080/hls/channel2.m3u8
 
-#EXTINF:-1 ,G TV S2
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 #EXTINF:-1 ,Gazi TV Freecatv
 http://172.16.29.250/hls/Gazi-TV.m3u8
