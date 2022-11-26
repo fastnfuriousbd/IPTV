@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 , Fifa Toffee
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9p3lgmA.png" group-title="Bangla", Gazi TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
