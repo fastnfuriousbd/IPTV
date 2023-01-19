@@ -16,6 +16,22 @@ http://103.205.133.43/hls/nagorik.m3u8
 #EXTINF:-1 ,Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 
+#EXTINF:-1,Nagorik Tv
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+
+#EXTINF:-1 ,nagorik tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+
+
+#EXTINF:-1,Nagorik tv
+http://103.205.133.20/hls/nagorik.m3u8
+
+#EXTINF:-1 ,Nagorik TV IHUB
+http://cdn.ihub.live:8082/PTVSports/index.m3u8?token=14f4c83b2ea563e9e7d9a2ec50fa8277cdee4669-c3120d27ff631717eb89c299bf3057a3-1674131167-1674120367
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladeshi",24.Nagorik TV
+http://103.205.133.21/hls/nagorik.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/NT.jpg" group-title="Family IPTV",NAGORIK TV (Medium ICC BDIX)
 http://103.205.133.50/hls/nagorik.m3u8
 
