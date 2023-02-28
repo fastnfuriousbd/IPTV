@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",BD v Eng
-https://mprod-cdn.toffeelive.com/banvseng/match-1/master_1000.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Sony Ten 1
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten1_hd_320/sony_ten1_hd_320.m3u8?bitrate=384000&channel=sony_ten1_hd_320&gp_id=
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Sony Ten 1
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Sony Ten 2
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_320/sony_ten2_hd_320.m3u8?bitrate=384000&channel=sony_ten2_hd_320&gp_id=
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Sony Ten 3
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten3_hd_320/sony_ten3_hd_320.m3u8?bitrate=384000&channel=sony_ten3_hd_320&gp_id=
-
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Sony Ten 5
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_six_hd_320/sony_six_hd_320.m3u8?bitrate=384000&channel=sony_six_hd_320&gp_id=
-
 
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="Sunplex",MAASRANGA TV HD
 http://stream.sunplex.live/MAASRANGA-TV/index.m3u8
