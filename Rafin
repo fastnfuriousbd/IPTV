@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 ,TNT Sports 2 
+https://n12.aliflailaaliflaila.com:999/hls/bbtsp2.m3u8?md5=auj-pt_arv6xJw62AGDTOg&expires=1693483122
+
+#EXTINF:-1 ,TNT Sports 2 
+https://n12.aliflailaaliflaila.com:999/hls/bbtsp2.m3u8
+
+
+#EXTINF:-1 ,TNT Sports 2 
+https://stream.crichd.vip/update/bt2.php
+
 #EXTINF:-1 ,Willow cricket HD
 http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943.m3u8
 
