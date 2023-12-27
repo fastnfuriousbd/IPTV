@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Nagorik TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1,Sony sports1 hd
 http://103.141.2.37:25461/live/web/web/585.m3u8
 #EXTINF:-1,Sony sports2 hd
