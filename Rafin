@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 ,T Sports HD
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 ,Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1,Sony sports1 hd
