@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://storage.sunplex.net/iptv/logo/t-sports.jpg" group-title="",T SPORTS
+http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
+
 #EXTINF:-1 ,GREEN TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
 
