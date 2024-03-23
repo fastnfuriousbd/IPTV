@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://storage.sunplex.net/iptv/logo/t-sports.jpg" group-title="",T SPORTS
+http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://storage.sunplex.net/iptv/logo/gtv.jpg" group-title="",GAZI TV
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="Sunplex",MAASRANGA TV HD
 http://stream.sunplex.live/MAASRANGA-TV/index.m3u8
