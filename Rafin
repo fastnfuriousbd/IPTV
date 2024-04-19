@@ -1,15 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,T Sports Live 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports Live 2
 https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 ,T Sports Live 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports Live 1
 https://live-cdn.tsports.com/live-01/index.m3u8
-#EXTINF:-1 ,T Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports HD
 https://tv5.hoichoi24.com/1000/video.m3u8
-#EXTINF:-1 ,T Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports HD
 https://tv5.hoichoi24.com/1101/video.m3u8
-#EXTINF:-1 ,T Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports HD
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 
 
@@ -22,117 +22,177 @@ https://freeiptv25.netlify.app/live/stream_8.m3u8
 
 
 
-#EXTINF:-1 ,Discover Pakistan TV [Jagobd]
-https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
-#EXTINF:-1 ,Deepto TV [Jagobd]
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 ,Deen TV UK [Jagobd]
-https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 ,DBC News [Jagobd]
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 ,Colosal TV [Jagobd]
-https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
-#EXTINF:-1 ,Channel I [Jagobd]
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,Channel Europe [Jagobd]
-https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
-#EXTINF:-1 ,CGTN News [Jagobd]
-https://livess.ncare.live/live-orgin/cgtn.stream/chunks.m3u8
-#EXTINF:-1 ,CGTN Documentary [Jagobd]
-https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
-#EXTINF:-1 ,Boishakhi TV [Jagobd]
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 ,Biswa Bangla 24 [Jagobd]
-https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 ,Bijoy TV [Jagobd]
-https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 ,Banglavision HD [Jagobd]
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 ,Bangla TV [Jagobd]
-https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 ,Bangla 24 Canada [Jagobd]
-https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
-#EXTINF:-1 ,ATN Music [Jagobd]
-https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 ,ATN Islamic TV [Jagobd]
-https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla UK [Jagobd]
-https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 ,ATN Bangla [Jagobd]
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,Amar Bangla [Jagobd]
-https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah TV [Jagobd]
-https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
-#EXTINF:-1 ,Alpha TV Canada [Jagobd]
-https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
-#EXTINF:-1 ,AB TV USA [Jagobd]
-https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
-#EXTINF:-1 ,Voice of America [Jagobd]
-https://livess.ncare.live/live-orgin/voa.stream/chunks.m3u8
-#EXTINF:-1 ,Varendra TV [Jagobd]
-https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
-#EXTINF:-1 ,V2BEAT TV [Jagobd]
-https://livess.ncare.live/live-orgin/v2beattv.stream/chunks.m3u8
-#EXTINF:-1 ,TV ONE UK [Jagobd]
-https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
-#EXTINF:-1 ,Times 24 TV [Jagobd]
-https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
-#EXTINF:-1 ,Time Television US [Jagobd]
-https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
-#EXTINF:-1 ,The Channel TV [Jagobd]
-https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
-#EXTINF:-1 ,Somoy TV [Jagobd]
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/
-#EXTINF:-1 ,SATV [Jagobd]
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 ,RTV HD [Jagobd]
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 ,Rajdhani TV [Jagobd]
-https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1 ,NTV Europe [Jagobd]
-https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 ,NRB TV [Jagobd]
-https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 ,Nexus TV [Jagobd]
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 ,News 24 [Jagobd]
-https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 ,NASA TV [Jagobd]
-https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
-#EXTINF:-1 ,NAN TV [Jagobd]
-https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 ,Movie Bangla [Jagobd]
-https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 ,Mohona TV [Jagobd]
-https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 ,Millennium TV USA [Jagobd]
-https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
-#EXTINF:-1 ,Millennium TV 24 [Jagobd]
-https://livess.ncare.live/live-orgin/mnews24.stream/chunks.m3u8
-#EXTINF:-1 ,Makkah TV [Jagobd]
-https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
-#EXTINF:-1 ,JonmoBhumi TV [Jagobd]
-https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 ,Jamuna TV [Jagobd]
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 ,Jagoroni TV [Jagobd]
-https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 ,JagoNews24 TV [Jagobd]
-https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 ,Islam TV [Jagobd]
-https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
-#EXTINF:-1 ,Iqra Bangla [Jagobd]
-https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 ,iON TV UK [Jagobd]
-https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 ,Independent TV [Jagobd]
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,Green TV [Jagobd]
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Jagobd" ,Green TV [Jagobd]
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 ,Ekhon TV [Jagobd]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Jagobd" ,Ekhon TV [Jagobd]
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 ,DW News [Jagobd]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Jagobd" ,Jamuna TV [Jagobd]
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" group-title="Jagobd" ,Bangla TV [Jagobd]
+https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" group-title="Jagobd" ,Banglavision HD [Jagobd]
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" group-title="Jagobd" ,Boishakhi TV [Jagobd]
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png" group-title="Jagobd" ,DBC News [Jagobd]
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="Jagobd" ,Channel I [Jagobd]
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Jagobd" ,Discover Pakistan TV [Jagobd]
+https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Jagobd" ,Deepto TV [Jagobd]
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp62Nbd.png" group-title="Jagobd" ,Deen TV UK [Jagobd]
+https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Jagobd" ,Colosal TV [Jagobd]
+https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/cheu.png" group-title="Jagobd" ,Channel Europe [Jagobd]
+https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="Jagobd" ,CGTN News [Jagobd]
+https://livess.ncare.live/live-orgin/cgtn.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Jagobd" ,CGTN Documentary [Jagobd]
+https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLFF56S/Biswa-Bangla-24.png" group-title="Jagobd" ,Biswa Bangla 24 [Jagobd]
+https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="Jagobd" ,Bijoy TV [Jagobd]
+https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQ3BLZV/Bangla-24-Canada.png" group-title="Jagobd" ,Bangla 24 Canada [Jagobd]
+https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8r6XkDH/ATN-Music.jpg" group-title="Jagobd" ,ATN Music [Jagobd]
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.masksystem.com/tv/img/channels/ATN%20Islamic%20Tv.png" group-title="Jagobd" ,ATN Islamic TV [Jagobd]
+https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="Jagobd" ,ATN Bangla UK [Jagobd]
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="Jagobd" ,ATN Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjJDLZQ/Amar-Bangla.png" group-title="Jagobd" ,Amar Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S6LcTJv" group-title="Jagobd" ,Al Sunnah Al Nabawiyah TV [Jagobd]
+https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/alpha_tv_logo_detail.png" group-title="Jagobd" ,Alpha TV Canada [Jagobd]
+https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4kxC2N/AB-TV-US.png" group-title="Jagobd" ,AB TV USA [Jagobd]
+https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/voa_tv_us.png" group-title="Jagobd" ,Voice of America [Jagobd]
+https://livess.ncare.live/live-orgin/voa.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.newspapersstore.com/wp-content/uploads/2018/04/varendro-tv-bangla-147x150.jpg" group-title="Jagobd" ,Varendra TV [Jagobd]
+https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mrtv.me/wp-content/uploads/2022/08/V2Beat-TV.png" group-title="Jagobd" ,V2BEAT TV [Jagobd]
+https://livess.ncare.live/live-orgin/v2beattv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kx2IMo_xqVg/Vtn9KYNneEI/AAAAAAAABLM/XFNFvJmUlrQ/s320/tvone001.jpg" group-title="Jagobd" ,TV ONE UK [Jagobd]
+https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/24-tv-logo-33D3C57D1B-seeklogo.com.png" group-title="Jagobd" ,Times 24 TV [Jagobd]
+https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-RRNC3r-huqPma-3uGGJgedPIH5pnSmMOiBNze=s900-c-k-c0x00ffffff-no-rj" group-title="Jagobd" ,Time Television US [Jagobd]
+https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/The-Channel-TV-tvtolive.com_.jpg" group-title="Jagobd" ,The Channel TV [Jagobd]
+https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TbX1CHt/somoytv.jpg" group-title="Jagobd" ,Somoy TV [Jagobd]
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LvV1NJ1/satv.png" group-title="Jagobd" ,SATV [Jagobd]
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPTjkRV/rtv.png" group-title="Jagobd" ,RTV HD [Jagobd]
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/ad6a69c8-1212-44b8-b926-f823e42c91d8.jpg" group-title="Jagobd" ,Rajdhani TV [Jagobd]
+https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/a1/f3/3ea1f3dc-739f-b327-c6d7-21224b8264cb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" group-title="Jagobd" ,NTV Europe [Jagobd]
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868624421585596418/VSzAiopn_400x400.jpg" group-title="Jagobd" ,NRB TV [Jagobd]
+https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png" group-title="Jagobd" ,Nexus TV [Jagobd]
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R0022qC/news24.png" group-title="Jagobd" ,News 24 [Jagobd]
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/326469/nasa_logo.jpg" group-title="Jagobd" ,NASA TV [Jagobd]
+https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxGYHTFwu2nFyxi-Nqbp6XQ0-LkLrC6ILP5CCV0gw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Jagobd" ,NAN TV [Jagobd]
+https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-title="Jagobd" ,Movie Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQLr2gJ/mohonatv.jpg" group-title="Jagobd" ,Mohona TV [Jagobd]
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-millennium-tv-usa-7547-768x576.jpg" group-title="Jagobd" ,Millennium TV USA [Jagobd]
+https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fThLWASMcSMw1eUa90X77TkOaVwr_9QQ4IVmuBq5_y8zDJYHqDilaNh3thZSEh7RCbc" group-title="Jagobd" ,Millennium TV 24 [Jagobd]
+https://livess.ncare.live/live-orgin/mnews24.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.channel-frequency.info/wp-content/uploads/2023/03/makkah-channel-redcolor-1440-alpha-570x716-1.png" group-title="Jagobd" ,Makkah TV [Jagobd]
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/320841652_2429698510543017_8193494561687098335_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3u-GYSH9QbkAb6Qa6j1&_nc_ht=scontent.fdac90-1.fna&oh=00_AfD-YYCCmMn2P6nTTOYpJgGNDm1MHasijJoPDv7yv2dgig&oe=66287C39" group-title="Jagobd" ,JonmoBhumi TV [Jagobd]
+https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzZ-fJZMWJiP_8i4JhFHNdAFik6BNbl7qLaug=s900-c-k-c0xffffffff-no-rj-mo" group-title="Jagobd" ,Jagoroni TV [Jagobd]
+https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jWLRW6UPr4YyLR54LRFPqWNuEjlsUOJ1KLdSnDTsVhsab3MueyFM8ExrxmuNyon3GgQ" group-title="Jagobd" ,JagoNews24 TV [Jagobd]
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/603f858b79d25a14328c00e7/607318a1dff99a55a5dada4a_Website%20Images%20(35)-p-800.jpeg" group-title="Jagobd" ,Islam TV [Jagobd]
+https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG-208x300.jpg" group-title="Jagobd" ,Iqra Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/1200px-ION_Television_2016.svg.png" group-title="Jagobd" ,iON TV UK [Jagobd]
+https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z7jJLf/Independent.jpg" group-title="Jagobd" ,Independent TV [Jagobd]
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDQPvr-r82FrRDcTOW0REZOGOV_nRQ5pPop3g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Jagobd" ,DW News [Jagobd]
 https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 
 
@@ -145,29 +205,41 @@ https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 ,HBO HD [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-WOnU8hFGK3g/UFxnoHT5vpI/AAAAAAAAAWM/Dw2Ua5M632g/s1600/hbohd.png" group-title="LaoTV" ,HBO HD [LaoTV]
 https://edge1.laotv.la/live/HBO/index.m3u8
-#EXTINF:-1 ,Discovery [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="LaoTV" ,Discovery [LaoTV]
 https://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 ,Cartoon Network [LaoTV]
+
+#EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2016/10/cartoon-network-old-logo.jpg" group-title="LaoTV" ,Cartoon Network [LaoTV]
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 ,beIN Sports 2 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/Beinsport2.jpg" group-title="LaoTV" ,beIN Sports 2 [LaoTV]
 https://edge1.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 ,beIN Sports 1 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/2015/06/bein-sport-1-hd-live-1.png" group-title="LaoTV" ,beIN Sports 1 [LaoTV]
 https://edge2.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 ,beIN Sports 1 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/2015/06/bein-sport-1-hd-live-1.png" group-title="LaoTV" ,beIN Sports 1 [LaoTV]
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 ,AMC Movie Station China [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-theatres-01-logo-png-transparent.png" group-title="LaoTV" ,AMC Movie Station China [LaoTV]
 https://edge2.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 ,True Sports 7 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png" group-title="LaoTV" ,True Sports 7 [LaoTV]
 https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 ,True Sports 2 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="LaoTV" ,True Sports 2 [LaoTV]
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 ,True Premier 2 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/Channel-True-Premier-Football-HD2-919-523-260.png" group-title="LaoTV" ,True Premier 2 [LaoTV]
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 ,True Premier 1 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/Channel-True-Premier-Football-HD1-919-523-260.png" group-title="LaoTV" ,True Premier 1 [LaoTV]
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 ,SUN TV HD Telugu [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="LaoTV" ,SUN TV HD Telugu [LaoTV]
 https://edge1.laotv.la/live/SunTV/index.m3u8
 
 
@@ -182,69 +254,102 @@ https://edge1.laotv.la/live/SunTV/index.m3u8
 
 
 
-#EXTINF:-1 ,beIN Sports 2 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/Beinsport2.jpg" group-title="Sports" ,beIN Sports 2 [LaoTV]
 https://edge1.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 ,beIN Sports 1 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/2015/06/bein-sport-1-hd-live-1.png" group-title="Sports" ,beIN Sports 1 [LaoTV]
 https://edge2.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 ,beIN Sports 1 [LaoTV]
+
+#EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/2015/06/bein-sport-1-hd-live-1.png" group-title="Sports" ,beIN Sports 1 [LaoTV]
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 ,TSports
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,TSports
 http://10.20.30.41:8082/GI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,GTV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p2qY37J/GTV.png" group-title="Sports" ,GTV
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PTV Sports
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxCypKv/ptvsports.png" group-title="Sports" ,PTV Sports
 https://tv5.hoichoi24.com/1507/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,TyC Sports
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Sports" ,TyC Sports
 https://da.gd/tycsfreetv
-#EXTINF:-1 ,TNT Sports 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="Sports" ,TNT Sports 3
 https://da.gd/tnt3freetv
-#EXTINF:-1 ,TNT Sports 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports" ,TNT Sports 2
 https://da.gd/tnt2freetv
-#EXTINF:-1 ,TNT Sports 1
+
+#EXTINF:-1 tvg-logo="https://advanced-television.com/wp-content/uploads/2023/07/TNTsports-logo.jpg" group-title="Sports" ,TNT Sports 1
 https://da.gd/tnt1freetv
-#EXTINF:-1 ,Ten Sports HD
+
+#EXTINF:-1 tvg-logo="LINK" group-title="Sports" ,Ten Sports HD
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
-#EXTINF:-1 ,T Sports Live 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports Live 2
 https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 ,T Sports Live 1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports Live 1
 https://live-cdn.tsports.com/live-01/index.m3u8
-#EXTINF:-1 ,T Sports HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports HD
 https://tv5.hoichoi24.com/1000/video.m3u8
-#EXTINF:-1 ,T Sports HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports HD
 https://tv5.hoichoi24.com/1101/video.m3u8
-#EXTINF:-1 ,T Sports HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4Y9K3v/t-sports.png" group-title="Sports" ,T Sports HD
 https://freeiptv25.netlify.app/live/stream_8.m3u8
-#EXTINF:-1 ,Star Sports Select 2 HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7N3YWn/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports" ,Star Sports Select 2 HD
 http://148.113.5.31:8106/play/a00g/index.m3u8
-#EXTINF:-1 ,Star Sports Select 1 HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBm0vcP/Star-Sports-Select-1.jpg" group-title="Sports" ,Star Sports Select 1 HD
 http://148.113.5.31:8106/play/a00f/index.m3u8
-#EXTINF:-1 ,Star Sports 2 HD
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="Sports" ,Star Sports 2 HD
 http://103.120.172.74:4200
-#EXTINF:-1 ,PTV Sports HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxCypKv/ptvsports.png" group-title="Sports" ,PTV Sports HD
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,Origin Sports
+
+#EXTINF:-1 tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/04/Origin_Sports_sml.png" group-title="Sports" ,Origin Sports
 https://raycoms-originsports.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,IPL Live
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/155-1559535_ipl-logo-png-2018.png" group-title="Sports" ,IPL Live
 https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 ,IPL Live
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/155-1559535_ipl-logo-png-2018.png" group-title="Sports" ,IPL Live
 https://tv5.hoichoi24.com/1000/video.m3u8
-#EXTINF:-1 ,IPL Live
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/155-1559535_ipl-logo-png-2018.png" group-title="Sports" ,IPL Live
 https://tv5.hoichoi24.com/1101/video.m3u8
-#EXTINF:-1 ,IPL Live
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/155-1559535_ipl-logo-png-2018.png" group-title="Sports" ,IPL Live
 https://tv5.hoichoi24.com/1102/video.m3u8
-#EXTINF:-1 ,IPL Live
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/155-1559535_ipl-logo-png-2018.png" group-title="Sports" ,IPL Live
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:-1 ,IPL Live
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/155-1559535_ipl-logo-png-2018.png" group-title="Sports" ,IPL Live
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
-#EXTINF:-1 ,IPL Live
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/155-1559535_ipl-logo-png-2018.png" group-title="Sports" ,IPL Live
 https://freeiptv25.netlify.app/live/stream_8.m3u8
-#EXTINF:-1 ,EDGEsport
+
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/85/3940085-middle.png" group-title="Sports" ,EDGEsport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,EDGEsport
+
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/85/3940085-middle.png" group-title="Sports" ,EDGEsport
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,BEK Sports West
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/019/044/367/original/bek-letter-logo-design-in-illustration-logo-calligraphy-designs-for-logo-poster-invitation-etc-vector.jpg" group-title="Sports" ,BEK Sports West
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 ,Trace Sport Stars
+
+#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/Trace-Sport-Stars-919-523-new.png" group-title="Sports" ,Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Trace Sport Stars
+
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0053447.jpeg" group-title="Sports" ,Trace Sport Stars
 https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
