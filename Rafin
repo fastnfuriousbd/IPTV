@@ -3,22 +3,47 @@
 #EXTINF:-1 ,Gazi Tv
 http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715079760&bdixsportstokenstarttime=1715072760&bdixsportstokenhash=ZdqoHtwuBOHhwQo41RTWKyfpxg9525U04feNTSs_JkE=
 
-
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", LIVE | Bangladesh vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://focus4ca.com/
-http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715079760&bdixsportstokenstarttime=1715072760&bdixsportstokenhash=ZdqoHtwuBOHhwQo41RTWKyfpxg9525U04feNTSs_JkE=
-
-
 #EXTINF:-1 ,TSports
 http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w1396909084.m3u8?bdixsportstokenendtime=1715090880&bdixsportstokenstarttime=1715072880&bdixsportstokenhash=AcPooDTzIwvEVCtoqxG6VqaVkRurKiDXfGz4RmGfgAw%3D
+
+
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Willow Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n5.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=i92bOSePBrlCv_RLqHVIvg&expires=1715101351
 
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", LIVE | IPL 2024
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714897648:KeyName=tsports-ed25519-01:Signature=hByZAsqqWXiaxR1NRo0TPnECGs2V6_4VeixG9qM8IC1aWwUzeRVm7h0R0HypUEmfPodMdcIy8mm1jkjwHqnbCw"}
-https://live-cdn.tsports.com/live-02/index.m3u8
+https://n6.dramaticreadings.com:999/hls/2-wstar1in.m3u8?md5=3-PBAkuFiecZb__CmIVv1A&expires=1715101338
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", Sky Sports | IPL 2024
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714897648:KeyName=tsports-ed25519-01:Signature=hByZAsqqWXiaxR1NRo0TPnECGs2V6_4VeixG9qM8IC1aWwUzeRVm7h0R0HypUEmfPodMdcIy8mm1jkjwHqnbCw"}
+https://n5.dramaticreadings.com:999/hls/skyscr2.m3u8?md5=Na0A2A-Oe1MyAFCIgPCbHQ&expires=1715101614
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", Star Sports 1 Hindi | IPL 2024
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714897648:KeyName=tsports-ed25519-01:Signature=hByZAsqqWXiaxR1NRo0TPnECGs2V6_4VeixG9qM8IC1aWwUzeRVm7h0R0HypUEmfPodMdcIy8mm1jkjwHqnbCw"}
+https://n7.dramaticreadings.com:999/hls/2-wstarhi.m3u8?md5=_floN0kHqqXVZGPGu1D6IA&expires=1715101598
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", LIVE | Bangladesh vs Zimbabwe
