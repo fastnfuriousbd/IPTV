@@ -1,10 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 ,Gazi Tv
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715079760&bdixsportstokenstarttime=1715072760&bdixsportstokenhash=ZdqoHtwuBOHhwQo41RTWKyfpxg9525U04feNTSs_JkE=
 
-#EXTINF:-1 group-title="🥅 MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI (HD) »1«
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", LIVE | Bangladesh vs Zimbabwe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n7.dramaticreadings.com:999/hls/2-wstar1in.m3u8?md5=4jWMQM1ygMahr2-QFkFnMg&expires=1715010628
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715079760&bdixsportstokenstarttime=1715072760&bdixsportstokenhash=ZdqoHtwuBOHhwQo41RTWKyfpxg9525U04feNTSs_JkE=
+
+
+#EXTINF:-1 ,TSports
+http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w1396909084.m3u8?bdixsportstokenendtime=1715090880&bdixsportstokenstarttime=1715072880&bdixsportstokenhash=AcPooDTzIwvEVCtoqxG6VqaVkRurKiDXfGz4RmGfgAw%3D
 
 
 
