@@ -1,10 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 ,Gazi Tv
-http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715079760&bdixsportstokenstarttime=1715072760&bdixsportstokenhash=ZdqoHtwuBOHhwQo41RTWKyfpxg9525U04feNTSs_JkE=
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", TSports Chunk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w864234628.m3u8?bdixsportstokenendtime=1715192220&bdixsportstokenstarttime=1715174220&bdixsportstokenhash=EwpPbMzkfxcOfPBOXFVx7oJMKHs882DMbaBcVeCzOXg%3D
 
-#EXTINF:-1 ,TSports
-http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w1396909084.m3u8?bdixsportstokenendtime=1715090880&bdixsportstokenstarttime=1715072880&bdixsportstokenhash=AcPooDTzIwvEVCtoqxG6VqaVkRurKiDXfGz4RmGfgAw%3D
+#EXTINF:-1 ,TSports BD
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715192220&bdixsportstokenstarttime=1715174220&bdixsportstokenhash=EwpPbMzkfxcOfPBOXFVx7oJMKHs882DMbaBcVeCzOXg=
+
+#EXTINF:-1 ,TSports BD
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715181340&bdixsportstokenstarttime=1715174340&bdixsportstokenhash=8H6Dmuo9AzR_MVesE-IQAxtH9UcrR-5nc0WjxIHBC9M=
+
+
+#EXTINF:-1 ,TSports BD
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715181400&bdixsportstokenstarttime=1715174400&bdixsportstokenhash=YXT2jFeNwrOWKe-CC8zAZU4FXNptKAiZSaUM7xc96_8=
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+http://wcdn.bdixsports.live:1935/live/event.stream/chunklist_w807794277.m3u8?bdixsportstokenendtime=1715192640&bdixsportstokenstarttime=1715174640&bdixsportstokenhash=ClMkEXipu6Bnk3ay6AiJfb164lCnchrNe7SXo78FXJg%3D
+
+
 
 
 
@@ -13,27 +31,7 @@ http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w1396909084.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Willow Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n5.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=i92bOSePBrlCv_RLqHVIvg&expires=1715101351
-
-
-
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", LIVE | IPL 2024
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714897648:KeyName=tsports-ed25519-01:Signature=hByZAsqqWXiaxR1NRo0TPnECGs2V6_4VeixG9qM8IC1aWwUzeRVm7h0R0HypUEmfPodMdcIy8mm1jkjwHqnbCw"}
-https://n6.dramaticreadings.com:999/hls/2-wstar1in.m3u8?md5=3-PBAkuFiecZb__CmIVv1A&expires=1715101338
-
-
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", Sky Sports | IPL 2024
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714897648:KeyName=tsports-ed25519-01:Signature=hByZAsqqWXiaxR1NRo0TPnECGs2V6_4VeixG9qM8IC1aWwUzeRVm7h0R0HypUEmfPodMdcIy8mm1jkjwHqnbCw"}
-https://n5.dramaticreadings.com:999/hls/skyscr2.m3u8?md5=Na0A2A-Oe1MyAFCIgPCbHQ&expires=1715101614
-
-
-
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", Star Sports 1 Hindi | IPL 2024
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714897648:KeyName=tsports-ed25519-01:Signature=hByZAsqqWXiaxR1NRo0TPnECGs2V6_4VeixG9qM8IC1aWwUzeRVm7h0R0HypUEmfPodMdcIy8mm1jkjwHqnbCw"}
-https://n7.dramaticreadings.com:999/hls/2-wstarhi.m3u8?md5=_floN0kHqqXVZGPGu1D6IA&expires=1715101598
+https://n2.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=j81QnrCsCOFkBIoy6Vyg1Q&expires=1715181945
 
 
 
@@ -41,15 +39,47 @@ https://n7.dramaticreadings.com:999/hls/2-wstarhi.m3u8?md5=_floN0kHqqXVZGPGu1D6I
 
 
 
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Astro Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n7.dramaticreadings.com:999/hls/fox501.m3u8?md5=Mft2lCDjQH5XOUpkM17fIw&expires=1715181984
 
 
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", LIVE | Bangladesh vs Zimbabwe
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714897648:KeyName=tsports-ed25519-01:Signature=hByZAsqqWXiaxR1NRo0TPnECGs2V6_4VeixG9qM8IC1aWwUzeRVm7h0R0HypUEmfPodMdcIy8mm1jkjwHqnbCw"}
-https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n8.dramaticreadings.com:999/hls/skyscr2.m3u8?md5=OJiBorH8y4FrAnuE6QfkQA&expires=1715182110
+
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Star Sports 1 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n5.dramaticreadings.com:999/hls/2-wstarhi.m3u8?md5=sqY6yfB1codZTiewRSb_QA&expires=1715182158
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Star Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n6.dramaticreadings.com:999/hls/2-wstar1in.m3u8?md5=kngUFa51AguUOr-k9Xrhwg&expires=1715182196
+
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Super Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n1.dramaticreadings.com:999/hls/supercricket.m3u8?md5=rtEgMcIR8m-d53UUPlKeIQ&expires=1715182234
+
+
+
+
+
 
 
 
