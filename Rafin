@@ -31,7 +31,7 @@ http://wcdn.bdixsports.live:1935/live/event.stream/chunklist_w807794277.m3u8?bdi
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Willow Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n2.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=j81QnrCsCOFkBIoy6Vyg1Q&expires=1715181945
+https://n4.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=RuPkLjC5jVuqnL0MWKZOTg&expires=1715268984
 
 
 
@@ -42,7 +42,7 @@ https://n2.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=j81QnrCsCOFkBIoy6Vyg1Q
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Astro Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n7.dramaticreadings.com:999/hls/fox501.m3u8?md5=Mft2lCDjQH5XOUpkM17fIw&expires=1715181984
+https://n1.dramaticreadings.com:999/hls/fox501.m3u8?md5=12TYfAm0DlZV3NskwnrDLQ&expires=1715269010
 
 
 
@@ -51,22 +51,21 @@ https://n7.dramaticreadings.com:999/hls/fox501.m3u8?md5=Mft2lCDjQH5XOUpkM17fIw&e
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n8.dramaticreadings.com:999/hls/skyscr2.m3u8?md5=OJiBorH8y4FrAnuE6QfkQA&expires=1715182110
-
+https://n4.dramaticreadings.com:999/hls/skyscr2.m3u8?md5=xlSPodPxBNVoCN-Aqg6NWA&expires=1715269051
 
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Star Sports 1 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n5.dramaticreadings.com:999/hls/2-wstarhi.m3u8?md5=sqY6yfB1codZTiewRSb_QA&expires=1715182158
+https://n5.dramaticreadings.com:999/hls/2-wstarhi.m3u8?md5=_V5cJKWguDycWklqOx8-wg&expires=1715269081
 
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Star Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n6.dramaticreadings.com:999/hls/2-wstar1in.m3u8?md5=kngUFa51AguUOr-k9Xrhwg&expires=1715182196
+https://n3.dramaticreadings.com:999/hls/2-wstar1in.m3u8?md5=fOImUpCQ3W00qMO2gi25zQ&expires=1715269102
 
 
 
@@ -74,7 +73,10 @@ https://n6.dramaticreadings.com:999/hls/2-wstar1in.m3u8?md5=kngUFa51AguUOr-k9Xrh
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Super Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n1.dramaticreadings.com:999/hls/supercricket.m3u8?md5=rtEgMcIR8m-d53UUPlKeIQ&expires=1715182234
+https://n7.dramaticreadings.com:999/hls/supercricket.m3u8?md5=YwUbFGKSj3JuNeV5we0WqQ&expires=1715269135
+
+
+
 
 
 
