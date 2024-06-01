@@ -10,3 +10,9 @@ https://flow.zplayer-hd.vip:8443/hls/willowusa.m3u8?st=Ogk1M5s8Tv2k8pKk2evruUPA7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
 https://abo.zcast720.com:8034/hls/willowusa.m3u8?st=f2TD2KQAA8zAN1SrYnoiibVUXpzKMOmBXN_WLZ2JrZw&ts=1717260401&e=1403
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Willow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n2.dramaticreadings.com:999/hls/vvwillow.m3u8?md5=pXWaUqzR-ykr15GvrdjnLA&expires=1717268350
