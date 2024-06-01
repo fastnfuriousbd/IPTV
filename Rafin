@@ -4,25 +4,25 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n7.dramaticreadings.com:999/hls/vvwillow.m3u8?md5=4U_Z38ZlkMhuW8WXtuVx0w&expires=1717260248
+https://abo.zcast720.com:8034/hls/willowusa.m3u8?st=f2TD2KQAA8zAN1SrYnoiibVUXpzKMOmBXN_WLZ2JrZw&ts=1717260401&e=1403
 
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://bbm.zcast720.com:8034/hls/willowusa.m3u8?st=nsZO4LHzv2GyEXdCK_Pfp66cqyzlvmgc7fe4IXSa38o&ts=1717253499&e=1403
+https://cat.zcast720.com:8034/hls/spch32.m3u8?st=KL4ahYgjL0fRKmp-Upnek8CeR9Qcu1DnAHV-kOM2lVQ&ts=1717260464&e=1403
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://flow.zplayer-hd.vip:8443/hls/willowusa.m3u8?st=v9CAyB-rlJMOeo92pu_SAJIsHYViTfFrS3OynxGgU0E&ts=1717253565&e=1403
+https://abo.zcast720.com:8034/hls/star1in.m3u8?st=eOKcSYGkNHJn_M2yMlG0yz7ZOU3JOYoaxWtG4lhbpok&ts=1717260491&e=1403
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://abo.zcast720.com:8034/hls/star1in.m3u8?st=KZRc4Ij9le4gU93q9jwFybzgqEQZ4Xkk2o_6jGzOd4o&ts=1717253721&e=1403
+https://abo.zcast720.com:8034/hls/star1in.m3u8?st=eOKcSYGkNHJn_M2yMlG0yz7ZOU3JOYoaxWtG4lhbpok&ts=1717260491&e=1403
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Nagorik 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
