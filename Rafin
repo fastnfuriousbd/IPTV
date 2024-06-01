@@ -1,5 +1,29 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", Nagorik 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w864234628.m3u8?bdixsportstokenendtime=1715192220&bdixsportstokenstarttime=1715174220&bdixsportstokenhash=EwpPbMzkfxcOfPBOXFVx7oJMKHs882DMbaBcVeCzOXg%3D
+
+#EXTINF:-1 ,Nagorik
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715192220&bdixsportstokenstarttime=1715174220&bdixsportstokenhash=EwpPbMzkfxcOfPBOXFVx7oJMKHs882DMbaBcVeCzOXg=
+
+#EXTINF:-1 ,Nagorik 2
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715181340&bdixsportstokenstarttime=1715174340&bdixsportstokenhash=8H6Dmuo9AzR_MVesE-IQAxtH9UcrR-5nc0WjxIHBC9M=
+
+
+#EXTINF:-1 ,Nagorik 3
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1715181400&bdixsportstokenstarttime=1715174400&bdixsportstokenhash=YXT2jFeNwrOWKe-CC8zAZU4FXNptKAiZSaUM7xc96_8=
+
+
+
+
+
+
+
 #EXTINF:-1 ,BD vs Usa
 https://sports.lvyclv.com/live/m33292792/playlist.m3u8
 
